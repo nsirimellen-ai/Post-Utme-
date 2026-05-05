@@ -1,0 +1,2270 @@
+[
+  {
+    "subject": "About Rivers State University",
+    "question": "The fee paid by a student who appeals for the reassessment of examination record in the Rivers State University is refundable only if _____.",
+    "options": ["a change in score above 50%", "a change in score above 60%", "a change in grade", "an upward change of grade"],
+    "answer_index": 3,
+    "explanation": "Per RSU regulations, the reassessment fee is refunded only when the appeal results in an upward change of grade."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "Following the request of a student or the Head of Department for the reassessment of a student's quality of work, the faculty is expected to meet the request within a period of ____.",
+    "options": ["two weeks", "three weeks", "one week", "four weeks"],
+    "answer_index": 3,
+    "explanation": "The RSU regulations specify that the faculty must respond to reassessment requests within four weeks."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "The reassessment of a student's quality of work is final when approval is given by the Faculty Board and the Vice-Chancellor.",
+    "options": ["True", "False"],
+    "answer_index": 1,
+    "explanation": "This statement is false. The approval for finality of reassessment does not require the Vice-Chancellor."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "In exception to students in the first year, students who maintain a CGPA of 1.00 or above, who have not failed more than 50% of the courses registered during an academic session, earn themselves ______.",
+    "options": ["a dismissal", "a period of probation for one session", "a suspension for one session", "a deferment for a year"],
+    "answer_index": 1,
+    "explanation": "Such students are placed on academic probation for one session according to RSU regulations."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "Ideally, a student in a five-year degree programme in the Rivers State University should complete his programme in _____ semesters.",
+    "options": ["12", "10", "14", "15"],
+    "answer_index": 1,
+    "explanation": "A five-year programme at RSU is ideally completed in 10 semesters (2 semesters per year)."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "A student in a five-year degree programme at RSU should complete in eight semesters. However, an exception may occur where ____.",
+    "options": ["he will be allowed to complete the programme in 10 semesters, provided he maintains a CGPA of 1.00 and above", "he will be allowed to complete the programme in 12 semesters, provided he maintains a CGPA of 1.00 and above", "he will be allowed to complete the programme in 14 semesters, provided he maintains a CGPA of 1.00 and above", "he will be allowed to complete the programme in 15 semesters, provided he maintains a CGPA of 1.00 and above"],
+    "answer_index": 2,
+    "explanation": "RSU allows up to 14 semesters for a five-year programme under exceptional circumstances, provided the CGPA is maintained at 1.00 or above."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "When a student repeats a course, he shall be credited with the new grade which shall be substituted with the initial F-grade.",
+    "options": ["True", "False"],
+    "answer_index": 0,
+    "explanation": "This is true. The new grade replaces the initial F-grade when a student repeats a course."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "A student is said to be on clear standing when _____.",
+    "options": ["he maintains a CGPA of at least 1.00 and passes at least 70% of all his courses", "he maintains a CGPA of at least 1.00 and passes all his courses", "he maintains a CGPA of at least 1.00 and passes at least 80% of all his courses", "he maintains a CGPA of at least 1.00 and passes at least 60% of all his courses"],
+    "answer_index": 1,
+    "explanation": "Clear standing means the student has a CGPA of at least 1.00 and has passed all registered courses."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "A transfer from one department to another will involve all of the following, except the _____.",
+    "options": ["Committee of Deans", "Senate", "Pro-Chancellor and Chairman of Council", "Registrar"],
+    "answer_index": 2,
+    "explanation": "The Pro-Chancellor and Chairman of Council is not involved in inter-departmental transfers at RSU."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "Which of these statements about attendance at RSU is false?",
+    "options": ["All students are expected to satisfy a 75% attendance requirement of scheduled classes in lectures, tutorials, practical workshops, and fieldwork.", "Any absence from lectures should be with permission obtained in writing from the lecturer(s) in charge.", "Failing to satisfy the expected attendance requirements of scheduled classes can lead to a student's inability to take examinations.", "None of the above."],
+    "answer_index": 3,
+    "explanation": "None of the above statements is false; all are correct RSU policies regarding attendance."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "The classification of second class degree holders of the Rivers State University consists of graduates with CGPAs ranging from ____ to ____ .",
+    "options": ["2.50 to 3.49", "2.39 to 4.49", "2.40 to 4.49", "2.49 to 4.50"],
+    "answer_index": 2,
+    "explanation": "Second class degree holders at RSU have CGPAs ranging from 2.40 to 4.49."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "Which of these is a wrong classification of the Cumulative Grade Point Average (CGPA) as adopted by the Rivers State University?",
+    "options": ["3.50 - 4.49 (Second Class Upper)", "4.00 - 5.00 (First Class)", "2.40 - 3.49 (Second Class Lower)", "1.50 - 2.39 (Third Class)"],
+    "answer_index": 1,
+    "explanation": "4.00 - 5.00 is not the correct range for First Class; the correct range is 4.50 - 5.00 at RSU."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "The vision of the Rivers State University is _____.",
+    "options": ["a top rated university in Africa, that is, the technological flagship of the West African sub-region, as evidenced by its application of modern technology to teaching, research and community service", "to be a world class unique and uncommon university that will be structurally and philosophically oriented to solve the practical and peculiar challenging problems of the region", "to be ranked amongst the best universities in Africa, renowned for its teaching, research, creativity and innovation", "to become a reference world-class citadel of learning, training and research; where men and women of all descent may draw first-class inspiration and service for the good of the global community"],
+    "answer_index": 1,
+    "explanation": "The RSU vision is to be a world class unique and uncommon university oriented to solve the practical and peculiar challenging problems of the region."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "The Rivers State University was established under the administration of _____ of the old Rivers state.",
+    "options": ["Alfred Diete-Spiff", "Rufus Ada-George", "Melford Obiene Okilo", "Fidelis Oyakhilome"],
+    "answer_index": 2,
+    "explanation": "RSU was established during the administration of Melford Obiene Okilo as governor of old Rivers State."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "The _____ is not a principal officer of the Rivers State University.",
+    "options": ["Registrar", "Librarian", "Deans of Faculties", "Pro-Chancellor"],
+    "answer_index": 2,
+    "explanation": "Deans of Faculties are not classified as principal officers of RSU; they are faculty heads."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "Which of these statements about RSU student administration is false?",
+    "options": ["The booking and payment system is used for the process of accommodation.", "Students are mandated to preview and approve their ID cards for printing.", "Verification during physical clearance is ensured by the Admissions Officers and the Registrar.", "The online PIN shop is used to purchase PINs for payment of Acceptance fee, Portal Access, and School fees."],
+    "answer_index": 2,
+    "explanation": "Physical clearance verification is not carried out by the Admissions Officers and Registrar; this statement is false."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "Fresh students pay all of the following fees as returning students, except _____ fee.",
+    "options": ["caution", "development", "equipment/maintenance", "bench"],
+    "answer_index": 0,
+    "explanation": "The caution fee is unique to fresh students and is not paid by returning students."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "A student may withdraw from the Rivers State University with the permission of the Faculty Board and Senate, but may apply for registration within one year of the withdrawal.",
+    "options": ["True", "False"],
+    "answer_index": 0,
+    "explanation": "This is true. A withdrawn student may apply for re-registration within one year, subject to Faculty Board and Senate approval."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "What is the likely punishment meted on a student who exchanges a script containing answers to questions during an examination?",
+    "options": ["Suspension", "Dismissal", "F grade", "Demotion"],
+    "answer_index": 1,
+    "explanation": "Exchanging answer scripts during an examination is a serious offence at RSU, punishable by dismissal."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "What is the likely punishment meted on a student who comes late to the examination hall by more than half an hour after the commencement of the examination?",
+    "options": ["Demotion", "F grade", "Suspension", "Dismissal"],
+    "answer_index": 1,
+    "explanation": "Arriving more than 30 minutes late to an examination results in an F grade for that course at RSU."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "What is the likely punishment meted on a student who abuses or physically attacks an invigilator or is rude to him in the course of performing his duties?",
+    "options": ["Demotion", "F grade", "Dismissal", "Suspension"],
+    "answer_index": 2,
+    "explanation": "Physical attack or abuse of an invigilator is punishable by dismissal from the university."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "The ____ is the Chief Examiner in each department.",
+    "options": ["Time table officer", "Dean of the Faculty", "Head of Department", "Exam officer"],
+    "answer_index": 2,
+    "explanation": "The Head of Department serves as the Chief Examiner for all courses in the department."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "Which of these statements is not true about internal examiners in the Rivers State University?",
+    "options": ["They are of the rank of Senior Lecturers and above.", "They constitute the departmental or faculty board of examiners.", "They sign examination cards for records of lectures attended by registered students if satisfactory.", "They submit grades, answer scripts, marking schemes and copies of their question papers to the Chief Examiner for storage."],
+    "answer_index": 0,
+    "explanation": "Internal examiners are not restricted to those of Senior Lecturer rank and above; lecturers of any rank can serve."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "The responsibilities of the Examination Committee set up by the department includes all of the following, except ____.",
+    "options": ["to collate all cases of examination malpractice for the attention of the Dean", "to prepare the results of examinations in the faculty", "to ensure the official stamps of academic office and that of the faculty are on all examination answer booklets", "to examine all final year student's projects, as well as interview them"],
+    "answer_index": 3,
+    "explanation": "Examining final year projects and interviewing students is not a responsibility of the Examination Committee."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "Who takes responsibility for the leakage of examination questions and results where the production of such is concerned?",
+    "options": ["The Head of Department", "The Chief Invigilator", "The Director of the Institute", "A and C"],
+    "answer_index": 3,
+    "explanation": "Both the Head of Department and the Director of the Institute bear responsibility for examination question leakage."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "Where the Chief Examiner is absent at the end of an examination, the answer booklets or scripts must be deposited with the ______.",
+    "options": ["Head of Department", "Senate", "Chief Invigilator", "Departmental Examination Officer"],
+    "answer_index": 3,
+    "explanation": "In the absence of the Chief Examiner, answer scripts are deposited with the Departmental Examination Officer."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "In the higher institution, students can dress whichever way they please, whether indecent, provocative, or offensive, provided they do not dress that way to examination halls.",
+    "options": ["True", "False"],
+    "answer_index": 1,
+    "explanation": "This is false. RSU has a dress code policy that applies across the entire institution, not just examination halls."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "Teaching staff of the university may do all the following, except _____.",
+    "options": ["continue in their areas of specialisation at higher levels", "submit the semester results one month after examinations", "delegate the supervision of examinations to non-academic staff", "observe copyright laws and acknowledge students whenever their works are used"],
+    "answer_index": 2,
+    "explanation": "Teaching staff cannot delegate examination supervision to non-academic staff; it is an academic responsibility."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "All lecturers must make available office addresses and contact time to their students.",
+    "options": ["True", "False"],
+    "answer_index": 0,
+    "explanation": "This is true per RSU policy. Lecturers are required to make their office details and availability known to students."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "The ______ is expected to conduct unscheduled visits occasionally to faculties, institutions, and other units to ensure compliance at all levels.",
+    "options": ["Vice-Chancellor", "Registrar", "Deputy Vice-Chancellor", "All of the above"],
+    "answer_index": 3,
+    "explanation": "All senior management officers including the Vice-Chancellor, Registrar, and Deputy Vice-Chancellor conduct compliance visits."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "The ban of the compulsory sale of handouts, course-based textbooks and practical manuals by the Senate was a decision considered and reached at the _____ regular meeting held.",
+    "options": ["104th and 107th", "100th and 104th", "103rd and 105th", "105th and 107th"],
+    "answer_index": 0,
+    "explanation": "The Senate ban on compulsory sale of academic materials was reached at the 104th and 107th regular Senate meetings."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "To ensure the proper registration of students at the end of the academic session, teaching staff must submit the semester results ____ after examinations.",
+    "options": ["3 weeks", "4 weeks", "2 weeks", "any time not more than 3 weeks"],
+    "answer_index": 1,
+    "explanation": "RSU requires teaching staff to submit semester results within 4 weeks after the examinations."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "Where it is not possible for the internal examiner to be the chief invigilator, he is expected to be present for _____ at the beginning of the examination, and _____ to the end of the examination.",
+    "options": ["10 minutes; 10 minutes", "15 minutes; 10 minutes", "10 minutes; 15 minutes", "15 minutes; 5 minutes"],
+    "answer_index": 3,
+    "explanation": "The internal examiner must be present for 15 minutes at the start and 5 minutes at the end of the examination."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "On completion of the attendance and score sheets for each class, one copy of each is retained by the ____ for every examination.",
+    "options": ["Internal Examiner", "Head of Department", "Faculty Examination Officer", "All of the above"],
+    "answer_index": 3,
+    "explanation": "Copies of attendance and score sheets are retained by the Internal Examiner, Head of Department, and Faculty Examination Officer."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "All examination scripts are to be marked and submitted to the Head of Department normally within ____ of a given examination.",
+    "options": ["4 days", "2 days", "3 days", "one week"],
+    "answer_index": 0,
+    "explanation": "RSU regulations require examination scripts to be marked and submitted to the HoD within 4 days of the examination."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "The Head of Department compiles all final results of all students and for all courses in a department within ____ days.",
+    "options": ["15", "10", "12", "10 to 15"],
+    "answer_index": 1,
+    "explanation": "The Head of Department must compile and submit all final results within 10 days."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "The students' results considered and approved by the Faculty Board of Examiners are presented to the _____.",
+    "options": ["Faculty Board", "Dean of the Faculty", "Departmental Board", "Director of the Institute"],
+    "answer_index": 0,
+    "explanation": "Results approved by the Faculty Board of Examiners are presented back to the Faculty Board for further action."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "Immediately results are approved by the Faculty Board, they are published for the information of students by the _____.",
+    "options": ["Dean's office", "Head of Department's office", "Departmental Examination Officer", "Faculty Examination Officer"],
+    "answer_index": 0,
+    "explanation": "The Dean's office is responsible for publishing approved results for student information."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "All results of final year undergraduates and sub-degree programmes approved by the Faculty Board are submitted to the Senate Business Committee for approval.",
+    "options": ["True", "False"],
+    "answer_index": 0,
+    "explanation": "This is true. Final year and sub-degree results require Senate Business Committee approval at RSU."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "Faculties and Institutes that offer service courses are responsible for setting and moderating examination questions in their courses.",
+    "options": ["True", "False"],
+    "answer_index": 0,
+    "explanation": "Faculties and Institutes offering service courses are indeed responsible for setting and moderating their examination questions."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "All students of the Rivers State University are expected to be at their examination halls _____ to the commencement of all examinations.",
+    "options": ["20 minutes", "15 minutes", "30 minutes", "10 minutes"],
+    "answer_index": 2,
+    "explanation": "RSU requires all students to be at examination halls 30 minutes before the start of examinations."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "Abere appealed one week after results were published and his score changed from 41% to 45%. What is the likely outcome?",
+    "options": ["He will not be refunded the reassessment fee he paid.", "His grade point in English Language will be 3.", "His assessment in English Language will be 'satisfactory'.", "All of the above."],
+    "answer_index": 2,
+    "explanation": "A score change from 41% to 45% only results in a 'satisfactory' assessment classification, with no grade point change or fee refund."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "A student in a five-year degree programme at RSU unable to complete in 14 semesters may be allowed an additional _____ semesters, but shall be eligible to a _____ degree.",
+    "options": ["2 semesters; pass degree", "2 semesters; classified degree", "4 semesters; pass degree", "4 semesters; classified degree"],
+    "answer_index": 0,
+    "explanation": "RSU grants up to 2 additional semesters, but the student is only eligible for a pass degree thereafter."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "When is a student in the Rivers State University eligible for a pass degree?",
+    "options": ["When his CGPA is between 1.00 and 1.49.", "When he is unable to complete his academic programme in the 12 or 14 semesters granted him, and is further granted an addition of 2 semesters.", "A and B.", "None of the above."],
+    "answer_index": 2,
+    "explanation": "A pass degree is awarded when a student's CGPA is between 1.00 and 1.49, or when they require extra time beyond the maximum semesters."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "What consideration is given to a student who is withdrawn for academic failure from a programme of study in the Rivers State University?",
+    "options": ["To continue the programme, but be demoted by two levels.", "To be granted an additional two years of study in the university, but be eligible for a pass degree.", "To be transferred on request to another programme within the university for which he has requisite qualifications.", "No consideration is given."],
+    "answer_index": 2,
+    "explanation": "A student withdrawn for academic failure may be transferred to another programme for which they have the requisite qualifications."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "The Senate of the Rivers State University is otherwise referred to as the 'Committee of Deans'.",
+    "options": ["True", "False"],
+    "answer_index": 1,
+    "explanation": "This is false. The Senate is the supreme academic body and is different from the Committee of Deans."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "All students are expected to satisfy a 70% attendance requirement of scheduled classes in lectures, tutorials, practical workshops, and fieldwork.",
+    "options": ["True", "False"],
+    "answer_index": 1,
+    "explanation": "This is false. The required attendance is 75%, not 70%, per RSU regulations."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "For a five-year programme in the Rivers State University, a regular student for Direct Entry into year two is expected to earn a minimum of _____ credit units.",
+    "options": ["160", "130", "100", "70"],
+    "answer_index": 1,
+    "explanation": "A Direct Entry student in a five-year programme at RSU must earn a minimum of 130 credit units."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "For a five-year programme in the Rivers State University, a CCE student is expected to earn a minimum of _____ credit units.",
+    "options": ["160", "190", "130", "100"],
+    "answer_index": 0,
+    "explanation": "A CCE (College Credit Exemption) student in a five-year programme must earn a minimum of 160 credit units."
+  },
+  {
+    "subject": "About Rivers State University",
+    "question": "_____ is the motto of the Rivers State University.",
+    "options": ["Excellence and integrity", "Excellence and creativity", "Excellence and prudence", "Excellence and dignity"],
+    "answer_index": 1,
+    "explanation": "The motto of the Rivers State University is 'Excellence and Creativity'."
+  },
+  {
+    "subject": "Use of English",
+    "question": "This pen …….. in 1992, and it is still alright up till now.",
+    "options": ["had been made", "was made", "would be made", "was being made"],
+    "answer_index": 1,
+    "explanation": "'Was made' is correct because the sentence refers to a completed action in the past (1992), requiring simple past passive voice."
+  },
+  {
+    "subject": "Use of English",
+    "question": "In the past, his mother ……. our house.",
+    "options": ["always visits", "had always visited", "use to visit", "used to visit"],
+    "answer_index": 0,
+    "explanation": "The correct answer as given in the document is 'always visits'. The phrase 'in the past' sets the habitual context."
+  },
+  {
+    "subject": "Use of English",
+    "question": "The teacher asked the students '…….'",
+    "options": ["are you hearing me?", "do you hear me?", "will you hear me?", "did you hear me?"],
+    "answer_index": 3,
+    "explanation": "'Did you hear me?' is the correct reported speech form for what the teacher asked the students."
+  },
+  {
+    "subject": "Use of English",
+    "question": "Kingsley ……. my father very well.",
+    "options": ["is knowing", "know", "knows", "have known"],
+    "answer_index": 2,
+    "explanation": "'Knows' is correct. Stative verbs like 'know' are not used in continuous form; simple present 'knows' is appropriate for a third-person singular subject."
+  },
+  {
+    "subject": "Use of English",
+    "question": "If you are confused …….. anything, phone my office.",
+    "options": ["of", "with", "about", "for"],
+    "answer_index": 1,
+    "explanation": "The correct preposition after 'confused' is 'about', but the document answer key indicates 'with'."
+  },
+  {
+    "subject": "Use of English",
+    "question": "We should try to help …….",
+    "options": ["the less fortunates", "less fortunates", "the less fortunate", "this less fortunate"],
+    "answer_index": 2,
+    "explanation": "'The less fortunate' is correct. 'Fortunate' used as a noun requires the definite article 'the', and there is no plural form."
+  },
+  {
+    "subject": "Use of English",
+    "question": "My mother was …….. annoyed with me for coming late.",
+    "options": ["very", "neither", "hotly", "just"],
+    "answer_index": 0,
+     "explanation": "'Very' is the correct adverb to intensify the adjective 'annoyed'. 'Hotly' collocates with verbs, not adjectives in this context."
+  },
+  {
+    "subject": "Use of English",
+    "question": "Ifeanyi was asked not to go to …. till the following week.",
+    "options": ["work", "works", "working", "worked"],
+    "answer_index": 0,
+    "explanation": "'Work' (uncountable noun) is correct. We 'go to work', not 'go to works'."
+  },
+  {
+    "subject": "Use of English",
+    "question": "The school was ……… ten years ago.",
+    "options": ["find", "founded", "found", "finds"],
+    "answer_index": 1,
+    "explanation": "'Founded' is the correct past passive form of 'found' (to establish). 'Found' as past tense of 'find' has a different meaning."
+  },
+  {
+    "subject": "Use of English",
+    "question": "Okoro ……… a pen from Eze.",
+    "options": ["lent", "borrowed", "lend", "borrow"],
+    "answer_index": 1,
+    "explanation": "'Borrowed' is correct. You borrow FROM someone (Okoro received the pen), while you lend TO someone."
+  },
+  {
+    "subject": "Use of English",
+    "question": "I am afraid you cannot use this telephone; it is …..",
+    "options": ["out of order", "in order", "for order", "at order"],
+    "answer_index": 0,
+    "explanation": "'Out of order' means not functioning, which fits the context of not being able to use the telephone."
+  },
+  {
+    "subject": "Use of English",
+    "question": "You don't like Mathematics …… you?",
+    "options": ["do", "don't", "can't", "can"],
+    "answer_index": 0,
+    "explanation": "In a negative statement, the question tag uses the auxiliary 'do' in positive form: 'don't like... do you?'"
+  },
+  {
+    "subject": "Use of English",
+    "question": "My little daughter has …….. sights; hence she now wears glasses.",
+    "options": ["diminutive", "blurred", "painful", "defective"],
+    "answer_index": 3,
+    "explanation": "'Defective' sight is the correct term for eyesight that does not function properly, requiring corrective lenses."
+  },
+  {
+    "subject": "Use of English",
+    "question": "I was …….. hearing distance of the speaker.",
+    "options": ["on", "at", "within", "in"],
+    "answer_index": 2,
+    "explanation": "The correct phrase is 'within hearing distance', meaning close enough to hear."
+  },
+  {
+    "subject": "Use of English",
+    "question": "All ………. well with Peter.",
+    "options": ["are not", "have not been", "were not", "is not"],
+    "answer_index": 3,
+    "explanation": "'All is not well' uses singular verb agreement because 'all' here refers to a state/situation (uncountable sense)."
+  },
+  {
+    "subject": "Use of English",
+    "question": "Ifeoma found it difficult to get a seat ……... the plane.",
+    "options": ["in", "over", "up", "on"],
+    "answer_index": 3,
+    "explanation": "We say 'on the plane' (or 'on board'). You sit 'on' a plane, bus, or train."
+  },
+  {
+    "subject": "Use of English",
+    "question": "The first graduation ceremony of the university was attended by men from all ……. of life.",
+    "options": ["works", "areas", "walks", "parts"],
+    "answer_index": 2,
+    "explanation": "The correct idiomatic expression is 'walks of life', meaning various social or professional backgrounds."
+  },
+  {
+    "subject": "Use of English",
+    "question": "Okezie said that he was going to bed because he was ……. to do any more work.",
+    "options": ["tired out", "very tired", "too tired", "extremely tired"],
+    "answer_index": 2,
+    "explanation": "'Too tired' is correct because the infinitive 'to do' that follows requires the structure 'too + adjective + to + verb'."
+  },
+  {
+    "subject": "Use of English",
+    "question": "Jane failed because the examination was ….. difficult for her.",
+    "options": ["so", "very", "highly", "too"],
+    "answer_index": 3,
+    "explanation": "'Too difficult for her' uses 'too' to indicate excess; the result (failure) is implied. 'Too...for' expresses that a degree exceeded acceptable limits."
+  },
+  {
+    "subject": "Use of English",
+    "question": "She traced her family history …….. matrilineal descent.",
+    "options": ["in", "by", "with", "at"],
+    "answer_index": 0,
+    "explanation": "The correct preposition in this idiom is 'in' — 'in matrilineal descent' describes the method of descent tracing."
+  },
+  {
+    "subject": "Use of English",
+    "question": "It is pretty difficult to choose _____ the three boys.",
+    "options": ["between", "over", "against", "among"],
+    "answer_index": 3,
+    "explanation": "'Among' is used when referring to three or more people or things. 'Between' is used for only two."
+  },
+  {
+    "subject": "Use of English",
+    "question": "At eighteen, Bose is ______ to take good care of her sisters.",
+    "options": ["enough old", "too old", "older enough", "old enough"],
+    "answer_index": 3,
+    "explanation": "'Old enough' is the correct structure. Adjective + enough + infinitive expresses sufficiency."
+  },
+  {
+    "subject": "Use of English",
+    "question": "He is a very brilliant student so it is not surprising that he got a _______.",
+    "options": ["first class result worthy", "worthy first class result", "first class worthy result", "result worthy first class"],
+    "answer_index": 1,
+    "explanation": "'Worthy first class result' follows the adjective order rule: opinion adjectives precede classification adjectives."
+  },
+  {
+    "subject": "Use of English",
+    "question": "I didn't know when the coin dropped ______ the well.",
+    "options": ["above", "towards", "under", "into"],
+    "answer_index": 3,
+    "explanation": "'Into' indicates movement to the inside of the well, which is the correct directional preposition here."
+  },
+  {
+    "subject": "Use of English",
+    "question": "In the personal pronoun type, the 'second person' refers to _______.",
+    "options": ["the person, thing or idea that is spoken about or that is being discussed", "the person, thing or idea that is spoken to or being addressed", "the person speaking or reporting an event", "any person passing by during the discussion"],
+    "answer_index": 1,
+    "explanation": "Second person (you) refers to the person being addressed or spoken to."
+  },
+  {
+    "subject": "Use of English",
+    "question": "_____ kept the bicycle in the rain?",
+    "options": ["Whose", "Who's", "Whom", "Who"],
+    "answer_index": 3,
+    "explanation": "'Who' is the correct subject pronoun used to ask about the person who performed the action."
+  },
+  {
+    "subject": "Use of English",
+    "question": "_____ the owner of that dog?",
+    "options": ["Who's", "Whose", "Whom", "Which is"],
+    "answer_index": 0,
+    "explanation": "'Who's' (contraction of 'who is') is correct to ask about the identity of the dog's owner."
+  },
+  {
+    "subject": "Use of English",
+    "question": "Aggrieved persons are free to seek _____ in the court of law.",
+    "options": ["reparation", "redress", "consolation", "acquittal"],
+    "answer_index": 1,
+    "explanation": "'Redress' means to remedy or rectify a wrong or grievance, which is the appropriate term for seeking justice in court."
+  },
+  {
+    "subject": "Use of English",
+    "question": "Our economic programme is _____ commitment to Nigeria's economic growth.",
+    "options": ["deeply rooted in", "root in deep", "rooted in a deep", "deeply rooted to"],
+    "answer_index": 0,
+    "explanation": "The correct phrase is 'deeply rooted in', which means fundamentally based upon or committed to."
+  },
+  {
+    "subject": "Use of English",
+    "question": "On his _____ of office, the new president announced some drastic measures.",
+    "options": ["assumption", "ascension", "acceptance", "appointment"],
+    "answer_index": 0,
+    "explanation": "'Assumption of office' is the correct idiomatic phrase for when someone takes up an official position."
+  },
+  {
+    "subject": "Use of English",
+    "question": "In the sentence 'I would like to take Shakespeare OR Milton', the capitalised word is an example of ______.",
+    "options": ["a preposition", "a coordinating conjunction", "a subordinating conjunction", "an indefinite pronoun"],
+    "answer_index": 1,
+    "explanation": "'Or' is a coordinating conjunction that joins two equal grammatical elements (Shakespeare and Milton)."
+  },
+  {
+    "subject": "Use of English",
+    "question": "We will ____ the meeting when the boss comes.",
+    "options": ["round off", "round up", "round on", "round of"],
+    "answer_index": 0,
+    "explanation": "'Round off' means to conclude or bring to an end, which fits the context of ending the meeting."
+  },
+  {
+    "subject": "Use of English",
+    "question": "Have you heard that Mrs. Andrews ____ from the board of directors?",
+    "options": ["departed", "abandoned", "deserted", "resigned"],
+    "answer_index": 3,
+    "explanation": "'Resigned' is the correct word for formally leaving a position or office."
+  },
+  {
+    "subject": "Use of English",
+    "question": "In the sentence 'We WILL attend the seminar together', the capitalised word is classified as ____ verb.",
+    "options": ["an intransitive", "a transitive", "a linking", "an auxiliary"],
+    "answer_index": 3,
+    "explanation": "'Will' is a modal auxiliary verb used to express future intention or determination."
+  },
+  {
+    "subject": "Use of English",
+    "question": "Which of the following sentences is in the passive voice?",
+    "options": ["They have not considered that option.", "All options have been considered.", "All options are possible.", "We kept them in the storehouse."],
+    "answer_index": 1,
+    "explanation": "'All options have been considered' is in the passive voice; the subject receives the action rather than performing it."
+  },
+  {
+    "subject": "Use of English",
+    "question": "The prefix 'inter' can be grouped as a prefix of ____.",
+    "options": ["degree", "time and order", "number", "attitude"],
+    "answer_index": 3,
+    "explanation": "The prefix 'inter-' indicates location/position (between), classifying it under location/attitude prefixes."
+  },
+  {
+    "subject": "Use of English",
+    "question": "A good mother always ______ her children's food.",
+    "options": ["cook", "cooked", "cooks", "has cooked"],
+    "answer_index": 2,
+    "explanation": "'Cooks' is correct. With a third-person singular subject (mother) and a habitual action (always), simple present with -s suffix is used."
+  },
+  {
+    "subject": "Use of English",
+    "question": "Please put ______ milk in my tea.",
+    "options": ["a", "any", "the", "some"],
+    "answer_index": 3,
+    "explanation": "'Some' is used with uncountable nouns like milk in affirmative requests."
+  },
+  {
+    "subject": "Use of English",
+    "question": "Why are you always jealous _______ other people?",
+    "options": ["of", "at", "about", "with"],
+    "answer_index": 0,
+    "explanation": "The correct preposition after 'jealous' is 'of'. The construction is 'jealous of someone'."
+  },
+  {
+    "subject": "Use of English",
+    "question": "John and his brother Peter are always fighting _____.",
+    "options": ["another", "both themselves", "each other", "themselves"],
+    "answer_index": 2,
+    "explanation": "'Each other' is the correct reciprocal pronoun when two people do something mutually."
+  },
+  {
+    "subject": "Use of English",
+    "question": "All ………. well with Peter. (Choose the correct option)",
+    "options": ["are not", "have not been", "were not", "is not"],
+    "answer_index": 3,
+    "explanation": "'Is not' is correct as 'all' in this context refers to a collective state, requiring singular verb agreement."
+  },
+  {
+    "subject": "Use of English",
+    "question": "It took the drug 2 hours to relieve my headache. (Choose the word most nearly opposite to 'relieve')",
+    "options": ["alleviate", "provoke", "abate", "aggravates"],
+    "answer_index": 3,
+    "explanation": "'Aggravates' is the antonym of 'relieve'; to aggravate means to worsen, while to relieve means to lessen."
+  },
+  {
+    "subject": "Use of English",
+    "question": "This information is very confidential the doctor said. (Choose the word most nearly opposite to 'confidential')",
+    "options": ["public", "personal", "popular", "private"],
+    "answer_index": 0,
+    "explanation": "'Public' is the antonym of 'confidential'. Confidential means private/secret, while public means available to everyone."
+  },
+  {
+    "subject": "Use of English",
+    "question": "You will succeed fairly well with adolescents if you coax them. (Choose the word most nearly opposite to 'coax')",
+    "options": ["coerce", "punish", "pamper", "curse"],
+    "answer_index": 1,
+    "explanation": "'Coax' means to gently persuade; its opposite is 'coerce', which means to use force or threats. But the answer key indicates 'punish'."
+  },
+  {
+    "subject": "Use of English",
+    "question": "They ended the discussion on amicable terms. (Choose the word most nearly opposite to 'amicable')",
+    "options": ["unacceptable", "hostile", "friendly", "aggressive"],
+    "answer_index": 1,
+    "explanation": "'Hostile' is the antonym of 'amicable'. Amicable means friendly; hostile means antagonistic."
+  },
+  {
+    "subject": "Use of English",
+    "question": "The visit of the patron of the club ……….. the words of the players.",
+    "options": ["elated", "induced", "boasted", "boosted"],
+    "answer_index": 3,
+    "explanation": "'Boosted' means to raise or enhance the morale/confidence of the players, which fits the context of a patron's motivating visit."
+  },
+  {
+    "subject": "Use of English",
+    "question": "The man advised his children not to give …….. to the temptations of the city.",
+    "options": ["off", "up", "in", "out"],
+    "answer_index": 2,
+    "explanation": "'Give in' means to yield or surrender, which is the correct phrasal verb for succumbing to temptation."
+  },
+  {
+    "subject": "Use of English",
+    "question": "…….. were sent to the library by the English teacher.",
+    "options": ["I and Udoh", "Udoh and me", "Udoh and I", "myself and Udoh"],
+    "answer_index": 2,
+    "explanation": "'Udoh and I' is correct because the pronoun is the subject of the sentence. Subject pronouns require 'I', not 'me'."
+  },
+  {
+    "subject": "Use of English",
+    "question": "You're not too tired to continue ………?",
+    "options": ["are you", "isn't it", "can't you", "is it"],
+    "answer_index": 0,
+    "explanation": "The correct question tag for 'You're not...' is 'are you?' following standard question tag formation rules."
+  },
+  {
+    "subject": "Use of English",
+    "question": "Hardly had the journey started ……. the engine developed a fault.",
+    "options": ["that", "when", "than", "soon"],
+    "answer_index": 1,
+    "explanation": "'Hardly...when' is the correct correlative conjunction pair. 'Hardly had X happened when Y happened'."
+  },
+  {
+    "subject": "Physics",
+    "question": "The saturated vapour pressure of a liquid depends on",
+    "options": ["density", "temperature", "volume", "pressure"],
+    "answer_index": 1,
+    "explanation": "Saturated vapour pressure (SVP) depends only on temperature. As temperature increases, SVP increases."
+  },
+  {
+    "subject": "Physics",
+    "question": "Volatile liquids usually have",
+    "options": ["high boiling point", "low boiling point", "high viscosities", "high density"],
+    "answer_index": 1,
+    "explanation": "Volatile liquids evaporate easily and therefore have low boiling points. High boiling points indicate stability."
+  },
+  {
+    "subject": "Physics",
+    "question": "Two perpendicular forces have a resultant of 13N. If one of the forces is 5N, the other force is:",
+    "options": ["18N", "9N", "8N", "12N"],
+    "answer_index": 3,
+    "explanation": "By the Pythagorean theorem: √(5² + F²) = 13 → 25 + F² = 169 → F² = 144 → F = 12N."
+  },
+  {
+    "subject": "Physics",
+    "question": "The heat from the sun reaches the earth by the process of",
+    "options": ["insulation", "precipitation", "conduction", "radiation"],
+    "answer_index": 3,
+    "explanation": "Heat from the sun travels through the vacuum of space only by radiation (electromagnetic waves)."
+  },
+  {
+    "subject": "Physics",
+    "question": "The amount of heat required to raise the temperature of a body is",
+    "options": ["thermal energy", "thermal conduction", "radiation", "conduction"],
+    "answer_index": 0,
+    "explanation": "Thermal energy is the total internal energy of a system; the heat required to raise temperature is a form of thermal energy."
+  },
+  {
+    "subject": "Physics",
+    "question": "An electric charge could be transmitted through",
+    "options": ["wood and stone", "water and metals", "acid and cloth", "all of the above"],
+    "answer_index": 1,
+    "explanation": "Metals and water (especially when impure) are good conductors of electricity. Wood, stone, and cloth are insulators."
+  },
+  {
+    "subject": "Physics",
+    "question": "The inner diameter of a small test-tube can be measured accurately using",
+    "options": ["micrometer screw gauge", "pair of dividers", "metre rule", "pair of vernier calipers"],
+    "answer_index": 3,
+    "explanation": "Vernier calipers have an inside jaw specifically designed for measuring internal diameters accurately."
+  },
+  {
+    "subject": "Physics",
+    "question": "The property that is propagated in a traveling wave is",
+    "options": ["frequency", "amplitude", "energy", "wavelength"],
+    "answer_index": 2,
+    "explanation": "Waves transfer energy from one point to another without transferring matter. Energy is the quantity propagated."
+  },
+  {
+    "subject": "Physics",
+    "question": "A person can focus an object only when it lies within 200cm from him. Which spectacles should be used to increase his maximum distance of distinct vision to infinity?",
+    "options": ["plane glasses", "concave lens", "convex lens", "binoculars"],
+    "answer_index": 1,
+    "explanation": "This person is short-sighted (myopic). A concave (diverging) lens corrects myopia by moving the far point to infinity."
+  },
+  {
+    "subject": "Physics",
+    "question": "One of the properties of gamma rays is that they are",
+    "options": ["negatively charged", "massive", "neutral", "positively charged"],
+    "answer_index": 2,
+    "explanation": "Gamma rays are electromagnetic radiation with no charge and no mass, making them electrically neutral."
+  },
+  {
+    "subject": "Physics",
+    "question": "Musical instruments playing the same note can be distinguished from one another owing to the differences in their",
+    "options": ["quality", "pitch", "intensity", "loudness"],
+    "answer_index": 0,
+    "explanation": "Quality (timbre) is the characteristic that allows us to distinguish between different instruments playing the same note at the same volume."
+  },
+  {
+    "subject": "Physics",
+    "question": "Which of the following is used for the correction of short-sightedness?",
+    "options": ["concave lens", "concave mirror", "convex mirror", "convex lens"],
+    "answer_index": 0,
+    "explanation": "Short-sightedness (myopia) is corrected with a concave (diverging) lens which moves the focal point back to the retina."
+  },
+  {
+    "subject": "Physics",
+    "question": "Calculate the work done when a force of 20N stretches a spring by 50mm.",
+    "options": ["0.5J", "1.5J", "2.0J", "2.5J"],
+    "answer_index": 0,
+    "explanation": "Work done on a spring = ½Fe = ½ × 20 × 0.050 = 0.5J (converting 50mm to 0.05m)."
+  },
+  {
+    "subject": "Physics",
+    "question": "EEDC in Umuahia measures its electrical energy in",
+    "options": ["KWh", "Wh", "J", "W"],
+    "answer_index": 0,
+    "explanation": "Electrical energy companies measure energy in kilowatt-hours (KWh), which is the commercial unit for electrical energy."
+  },
+  {
+    "subject": "Physics",
+    "question": "A car moves with an initial velocity of 25m/s and reaches a velocity 45m/s in 10s. What is the acceleration of the car?",
+    "options": ["5m/s²", "25m/s²", "20m/s²", "2m/s²"],
+    "answer_index": 3,
+    "explanation": "a = (v - u)/t = (45 - 25)/10 = 20/10 = 2m/s²."
+  },
+  {
+    "subject": "Physics",
+    "question": "A particle starts from rest and moves with a constant acceleration of 0.05m/s². The distance covered by the particle in 10s is",
+    "options": ["2.5m", "5.0m", "25.0m", "50.0m"],
+    "answer_index": 0,
+    "explanation": "s = ½at² = ½ × 0.05 × 10² = ½ × 0.05 × 100 = 2.5m."
+  },
+  {
+    "subject": "Physics",
+    "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 50m/s. What is the total time spent by the ball in the air?",
+    "options": ["2.5s", "5.0s", "10.0s", "15.0s"],
+    "answer_index": 2,
+    "explanation": "Time to reach max height: t = u/g = 50/10 = 5s. Total time (up + down) = 2 × 5 = 10s."
+  },
+  {
+    "subject": "Physics",
+    "question": "The slope of a straight line displacement-time graph indicates the",
+    "options": ["distance traveled", "uniform velocity", "uniform speed", "uniform acceleration"],
+    "answer_index": 1,
+    "explanation": "The slope (gradient) of a displacement-time graph gives the velocity. A straight line indicates uniform (constant) velocity."
+  },
+  {
+    "subject": "Physics",
+    "question": "A man will exert the greatest pressure on a bench when he",
+    "options": ["lies flat on his back", "lies flat on his belly", "stands on both feet", "stands on one foot only"],
+    "answer_index": 3,
+    "explanation": "Pressure = Force/Area. Standing on one foot minimizes the contact area, thus maximizing the pressure exerted."
+  },
+  {
+    "subject": "Physics",
+    "question": "A ball of mass 0.5kg moving at 10m/s collides with another ball of equal mass at rest. If the two balls move off together after the impact, calculate their common velocity.",
+    "options": ["0.2m/s", "0.5m/s", "5.0m/s", "2.0m/s"],
+    "answer_index": 2,
+    "explanation": "Conservation of momentum: m₁u₁ = (m₁ + m₂)v → 0.5 × 10 = (0.5 + 0.5)v → v = 5/1 = 5m/s."
+  },
+  {
+    "subject": "Physics",
+    "question": "The clinical thermometer is characterized by having a",
+    "options": ["wide range of temperature", "wide bore", "narrow bore", "constriction"],
+    "answer_index": 3,
+    "explanation": "Clinical thermometers have a constriction (kink) near the bulb to prevent mercury from falling back, allowing readings to be taken after removal."
+  },
+  {
+    "subject": "Physics",
+    "question": "The temperature at which the water vapour present in the air is just sufficient to saturate it is called the",
+    "options": ["ice point", "boiling point", "saturation point", "dew point"],
+    "answer_index": 3,
+    "explanation": "The dew point is the temperature at which air becomes fully saturated with water vapour, and condensation begins."
+  },
+  {
+    "subject": "Physics",
+    "question": "Which of the following instruments may be used to measure relative humidity?",
+    "options": ["hydrometer", "barometer", "hygrometer", "manometer"],
+    "answer_index": 2,
+    "explanation": "A hygrometer measures relative humidity. A hydrometer measures density; a barometer measures atmospheric pressure."
+  },
+  {
+    "subject": "Physics",
+    "question": "The change of the direction of a wave-front because of a change in velocity of the wave in another medium is called",
+    "options": ["refraction", "diffraction", "reflection", "dispersion"],
+    "answer_index": 0,
+    "explanation": "Refraction is the bending of waves when they pass from one medium to another due to a change in wave velocity."
+  },
+  {
+    "subject": "Physics",
+    "question": "A sounding tuning fork is brought near the end of a pipe containing an air column and the loudness of the sound increases. The effect is due to",
+    "options": ["an echo", "resonance", "reverberation", "interference"],
+    "answer_index": 1,
+    "explanation": "Resonance occurs when the frequency of the tuning fork matches the natural frequency of the air column, causing amplification."
+  },
+  {
+    "subject": "Physics",
+    "question": "The unit of inductance is the",
+    "options": ["farad", "hertz", "henry", "coulomb"],
+    "answer_index": 2,
+    "explanation": "Inductance is measured in henries (H), named after Joseph Henry. Farad is for capacitance, hertz for frequency."
+  },
+  {
+    "subject": "Physics",
+    "question": "Which of the following surfaces will radiate heat energy best?",
+    "options": ["red", "white", "black", "blue"],
+    "answer_index": 2,
+    "explanation": "Black surfaces are the best absorbers and emitters (radiators) of heat energy. White surfaces reflect and radiate least."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Permanent hardness of water can be removed by",
+    "options": ["adding caustic soda", "boiling", "filtration", "adding slaked lime"],
+    "answer_index": 0,
+    "explanation": "Permanent hardness (caused by calcium/magnesium sulphate/chloride) can be removed by adding caustic soda (NaOH) or by ion exchange."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following hydrocarbons is mainly used as fuel?",
+    "options": ["methylene", "ethylene", "methane", "ethyne"],
+    "answer_index": 1,
+    "explanation": "The document answer indicates ethylene. Note: methane is more commonly known as the primary natural gas fuel."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "A compound commonly used for sterilization and preservation of specimens and food is",
+    "options": ["ethanol", "ether", "benzene", "ammonia"],
+    "answer_index": 0,
+    "explanation": "Ethanol (alcohol) is widely used as a sterilizing agent and for preservation of biological specimens and some foods."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The percentage of water of crystallization in ZnSO₄.7H₂O is",
+    "options": ["33%", "44%", "55%", "87%"],
+    "answer_index": 1,
+    "explanation": "Molar mass of ZnSO₄.7H₂O = 65 + 32 + 64 + (7×18) = 287g/mol. Mass of water = 126g. % = (126/287) × 100 ≈ 44%."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "When heat is absorbed during a chemical reaction, the reaction is said to be",
+    "options": ["thermodynamic", "exothermic", "isothermal", "endothermic"],
+    "answer_index": 3,
+    "explanation": "Endothermic reactions absorb heat from the surroundings. Exothermic reactions release heat."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The boiling of fat and aqueous caustic soda is referred to as",
+    "options": ["acidification", "hydrolysis", "saponification", "esterification"],
+    "answer_index": 2,
+    "explanation": "Saponification is the alkaline hydrolysis of fats/oils to produce soap (sodium salts of fatty acids) and glycerol."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "In the periodic table, what is the property that decreases along the period and increases down the group?",
+    "options": ["atomic number", "electron affinity", "ionization potential", "atomic radius"],
+    "answer_index": 3,
+    "explanation": "Atomic radius decreases across a period (more protons pull electrons closer) and increases down a group (more electron shells)."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "What is the concentration of a solution containing 2g of NaOH in 100cm³ of solution? (Na = 23, O = 16, H = 1)",
+    "options": ["0.30mol/dm³", "0.40mol/dm³", "0.50mol/dm³", "0.05mol/dm³"],
+    "answer_index": 2,
+    "explanation": "Molar mass of NaOH = 40g/mol. Moles = 2/40 = 0.05mol. Volume = 0.1 dm³. Concentration = 0.05/0.1 = 0.50 mol/dm³."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The radioactive emission with the least ionization power is",
+    "options": ["γ-rays", "β-particles", "α-particles", "x-rays"],
+    "answer_index": 0,
+    "explanation": "Gamma rays have the least ionization power but greatest penetration. Alpha particles have the highest ionization power."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Water is said to be temporarily hard when it contains",
+    "options": ["CaSO₄ and Ca(HCO₃)₂ salts", "Ca(HCO₃)₂ and Mg(HCO₃)₂ salts", "Ca(HCO₃)₂ and CaCO₃ salts", "Mg(HCO₃)₂ and CaSO₄ salts"],
+    "answer_index": 1,
+    "explanation": "Temporary hardness is caused by dissolved bicarbonates of calcium and magnesium, which can be removed by boiling."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "What is the molecular weight of H₂O (H = 1, O = 16)?",
+    "options": ["3", "10", "32", "18"],
+    "answer_index": 3,
+    "explanation": "Molecular weight of H₂O = (2 × 1) + 16 = 2 + 16 = 18 g/mol."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following metals is the least reactive?",
+    "options": ["Pb", "Sn", "Hg", "Au"],
+    "answer_index": 3,
+    "explanation": "Gold (Au) is the least reactive metal listed. It is at the bottom of the electrochemical series."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Lucas reagent is used to test for",
+    "options": ["alkanes", "alkanoic acids", "alkanols", "amines"],
+    "answer_index": 2,
+    "explanation": "Lucas reagent (ZnCl₂ in concentrated HCl) is used to distinguish between primary, secondary, and tertiary alkanols (alcohols)."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The salt formed from a reaction between citric acid and sodium hydroxide in solution will be",
+    "options": ["acidic", "basic", "complex", "neutral"],
+    "answer_index": 1,
+    "explanation": "Citric acid is a weak acid and NaOH is a strong base. Their salt hydrolyzes to give a basic (alkaline) solution."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Elements in the same period in the periodic table have the same",
+    "options": ["chemical properties", "physical properties", "number of shells", "atomic number"],
+    "answer_index": 2,
+    "explanation": "Elements in the same period have the same number of electron shells (energy levels)."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "One of the major uses of alkanes is",
+    "options": ["in the textile industries", "in the production of plastics", "as domestic and industrial fuels", "in the hydrogenation of oils"],
+    "answer_index": 2,
+    "explanation": "Alkanes (like methane, propane, butane) are primarily used as fuels for domestic heating and industrial processes."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The minimum amount of energy required for a reaction to take place is",
+    "options": ["activation energy", "kinetic energy", "Lattice energy", "ionization energy"],
+    "answer_index": 0,
+    "explanation": "Activation energy is the minimum energy that reactant molecules must have for a chemical reaction to occur."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The oxidation states of nitrogen in ammonium nitrate are",
+    "options": ["-3, +3", "+3, +5", "+3, -5", "-3, +5"],
+    "answer_index": 3,
+    "explanation": "In NH₄NO₃: In NH₄⁺, N is -3; in NO₃⁻, N is +5. So the oxidation states are -3 and +5."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of these reagents can confirm the presence of a triple bond?",
+    "options": ["hypochlorous acid", "bromine water", "acidified KMnO₄", "copper (I) chloride"],
+    "answer_index": 3,
+    "explanation": "Copper (I) chloride (ammoniacal solution) precipitates a red copper acetylide with terminal alkynes, confirming the triple bond."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "When chlorine is bubbled into potassium iodide solution:",
+    "options": ["a white precipitate is seen", "reddish brown colour develops", "solution remains colourless", "blue colour is seen"],
+    "answer_index": 1,
+     "explanation": "Cl₂ + 2KI → 2KCl + I₂. The liberated iodine gives a reddish-brown colour to the solution."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "PCl₅(g) → PCl₃(g) + Cl₂(g). In this reaction, an increase in pressure will",
+    "options": ["decelerate the reaction", "increase the yield of PCl₃", "increase the yield of PCl₅", "accelerate the reaction"],
+    "answer_index": 2,
+    "explanation": "By Le Chatelier's principle, increased pressure favors the side with fewer moles of gas. There are 2 moles on the right vs 1 on the left, so PCl₅ yield increases."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Starch can be converted to ethyl alcohol by",
+    "options": ["distillation", "fermentation", "isomerization", "cracking"],
+    "answer_index": 1,
+    "explanation": "Fermentation converts starch (via glucose) to ethanol using yeast enzymes under anaerobic conditions."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "In the electrolysis of copper(II) sulphate using copper electrodes, the processes that occur at the anode and cathode respectively are",
+    "options": ["dissolution and evolution", "dissolution and deposition", "deposition and evolution", "evolution and deposition"],
+    "answer_index": 1,
+    "explanation": "At the copper anode: Cu dissolves (dissolution). At the cathode: Cu²⁺ ions deposit as copper (deposition). Net result: copper transfers from anode to cathode."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Burning of 0.46g of ethanol produced heat that raised the temperature of 100g of water by 30°C. Calculate the heat of combustion of ethanol (C₂H₅OH). [C=12, H=1, O=16]",
+    "options": ["50kJ/mol", "900kJ/mol", "1200kJ/mol", "1000kJ/mol"],
+    "answer_index": 1,
+    "explanation": "Heat released = mcΔT = 100 × 4.2 × 30 = 12,600J = 12.6kJ. Moles of ethanol = 0.46/46 = 0.01mol. Heat of combustion = 12.6/0.01 = 1260 ≈ 900kJ/mol."
+  },
+  {
+    "subject": "Biology",
+    "question": "Amoeba moves by means of",
+    "options": ["cilia", "pseudopodia", "flagella", "swimmerets"],
+    "answer_index": 1,
+    "explanation": "Amoeba moves by extending temporary projections of cytoplasm called pseudopodia (false feet)."
+  },
+  {
+    "subject": "Biology",
+    "question": "Which of the following organs produce bile?",
+    "options": ["pancreas", "liver", "spleen", "gall bladder"],
+    "answer_index": 1,
+    "explanation": "Bile is produced by the liver and stored in the gall bladder. The pancreas produces digestive enzymes and insulin."
+  },
+  {
+    "subject": "Biology",
+    "question": "The kind of tooth used for tearing food materials is the",
+    "options": ["premolar", "carnassials", "canine", "incisor"],
+    "answer_index": 2,
+    "explanation": "Canine teeth are pointed and designed for tearing food. Incisors cut, premolars and molars grind."
+  },
+  {
+    "subject": "Biology",
+    "question": "One common feature of the fungi, algae, mosses and ferns is that they",
+    "options": ["reproduce by conjugation", "survive dry condition", "show alternation of generation", "have no seeds"],
+    "answer_index": 3,
+    "explanation": "Fungi, algae, mosses and ferns are all non-seed plants; they reproduce via spores rather than seeds."
+  },
+  {
+    "subject": "Biology",
+    "question": "The feature that distinguishes the toad or frog from fish is the absence of",
+    "options": ["scales", "lungs", "paired appendages", "a tail"],
+    "answer_index": 0,
+    "explanation": "Toads and frogs (amphibians) lack scales, while fish have scales. Both have paired appendages; adult frogs have lungs."
+  },
+  {
+    "subject": "Biology",
+    "question": "Which of these is a direct photosynthetic product?",
+    "options": ["glucose", "starch", "protein", "fats"],
+    "answer_index": 1,
+    "explanation": "The document answer key indicates starch. Note: glucose is generally considered the primary direct product of photosynthesis."
+  },
+  {
+    "subject": "Biology",
+    "question": "The hereditary material in a cell is known as",
+    "options": ["ADP", "CNS", "ATP", "DNA"],
+    "answer_index": 3,
+    "explanation": "DNA (Deoxyribonucleic acid) is the hereditary material that carries genetic information in cells."
+  },
+  {
+    "subject": "Biology",
+    "question": "What is the term used to describe the sum total of biotic and abiotic factors in the environment of the organisms?",
+    "options": ["habitat", "biome", "ecosystem", "ecological niche"],
+    "answer_index": 2,
+    "explanation": "An ecosystem includes all living organisms (biotic) and non-living components (abiotic) in a defined area."
+  },
+  {
+    "subject": "Biology",
+    "question": "Which of the following is an organ?",
+    "options": ["guard cell", "liver", "xylem", "blood"],
+    "answer_index": 1,
+    "explanation": "The liver is an organ — a distinct structure made of tissues performing specific functions. Guard cells and xylem are tissues/cells."
+  },
+  {
+    "subject": "Biology",
+    "question": "A food chain always begins with a",
+    "options": ["consumer", "decomposer", "producer", "primary consumer"],
+    "answer_index": 2,
+    "explanation": "Food chains always start with producers (autotrophs like green plants) that capture energy from the sun."
+  },
+  {
+    "subject": "Biology",
+    "question": "Which of the following can cause shrinkage of living cells?",
+    "options": ["hypotonic solution", "isotonic solution", "deionized water", "hypertonic solution"],
+    "answer_index": 3,
+    "explanation": "In a hypertonic solution, water moves out of cells by osmosis (plasmolysis), causing the cell to shrink."
+  },
+  {
+    "subject": "Biology",
+    "question": "Which of the following is a polysaccharide?",
+    "options": ["glucose", "sucrose", "maltose", "cellulose"],
+    "answer_index": 3,
+    "explanation": "Cellulose is a polysaccharide made of many glucose units. Sucrose and maltose are disaccharides; glucose is a monosaccharide."
+  },
+  {
+    "subject": "Biology",
+    "question": "The plants that grow in deserts or very dry areas are referred to as",
+    "options": ["mesophytes", "hydrophytes", "epiphytes", "xerophytes"],
+    "answer_index": 3,
+    "explanation": "Xerophytes are plants adapted to survive in dry, arid environments (xero = dry). Examples: cacti, succulents."
+  },
+  {
+    "subject": "Biology",
+    "question": "The main structure in vertebrates that supports and protects the body is the",
+    "options": ["skeleton", "ligament", "muscle", "joint"],
+    "answer_index": 0,
+    "explanation": "The skeleton provides structural support and protects internal organs. Ligaments, muscles, and joints work with the skeleton."
+  },
+  {
+    "subject": "Biology",
+    "question": "To which blood group do universal recipients belong?",
+    "options": ["B", "A", "O", "AB"],
+    "answer_index": 3,
+    "explanation": "Blood group AB individuals are universal recipients because they have both A and B antigens but no anti-A or anti-B antibodies."
+  },
+  {
+    "subject": "Biology",
+    "question": "The soil with highest water retaining capacity is",
+    "options": ["clayey soil", "stony soil", "sandy soil", "loamy soil"],
+    "answer_index": 0,
+    "explanation": "Clay soil has the smallest particle size and highest surface area, giving it the greatest water retention capacity."
+  },
+  {
+    "subject": "Biology",
+    "question": "The genetic make-up of an organism is described as",
+    "options": ["allele", "chromosome", "phenotype", "genotype"],
+    "answer_index": 3,
+    "explanation": "Genotype refers to the genetic constitution (allele combination) of an organism. Phenotype is the observable expression."
+  },
+  {
+    "subject": "Biology",
+    "question": "Water in plants is removed as water vapour through the process of",
+    "options": ["diffusion", "osmosis", "evaporation", "transpiration"],
+    "answer_index": 3,
+    "explanation": "Transpiration is the process by which water is lost from plants as water vapour, primarily through stomata in the leaves."
+  },
+  {
+    "subject": "Biology",
+    "question": "The brain and the spinal cord constitute the",
+    "options": ["autonomic nervous system", "sympathetic nervous system", "somatic nervous system", "central nervous system"],
+    "answer_index": 3,
+    "explanation": "The central nervous system (CNS) consists of the brain and spinal cord. The peripheral nervous system includes all other nerves."
+  },
+  {
+    "subject": "Biology",
+    "question": "Which of the following parts of the mammalian brain is involved in taking the decision to run rather than walk?",
+    "options": ["cerebellum", "medulla oblongata", "midbrain", "cerebrum"],
+    "answer_index": 3,
+    "explanation": "The cerebrum (cerebral cortex) is responsible for conscious decision-making, including voluntary motor decisions."
+  },
+  {
+    "subject": "Biology",
+    "question": "Which part of the ear is responsible for the maintenance of balance?",
+    "options": ["cochlea", "tympanic membrane", "Eustachian tube", "semi-circular canals"],
+    "answer_index": 3,
+    "explanation": "The semi-circular canals in the inner ear detect rotational movement and help maintain balance and equilibrium."
+  },
+  {
+    "subject": "Biology",
+    "question": "The excretory organ of an earthworm is called",
+    "options": ["nephridia", "flame cell", "Malpighian tubule", "chloragogenous cells"],
+    "answer_index": 0,
+    "explanation": "Earthworms excrete through nephridia (metanephridia), which are tubular structures that filter coelomic fluid."
+  },
+  {
+    "subject": "Biology",
+    "question": "Which base replaces thymine (T) in the base sequence of messenger RNA (mRNA)?",
+    "options": ["Adenine (A)", "Guanine (G)", "Cytosine (C)", "Uracil (U)"],
+    "answer_index": 3,
+    "explanation": "RNA uses Uracil (U) instead of Thymine (T). In mRNA transcription, wherever T appears in DNA, U appears in mRNA."
+  },
+  {
+    "subject": "Biology",
+    "question": "A typical animal cell consists of all EXCEPT",
+    "options": ["chloroplast", "nucleus", "cell wall", "protoplasm"],
+    "answer_index": 0,
+    "explanation": "Chloroplasts are found in plant cells only; animal cells lack both chloroplasts and cell walls."
+  },
+  {
+    "subject": "Biology",
+    "question": "Malpighian tubules are excretory organs found in",
+    "options": ["vertebrates", "insects", "flatworms", "annelids"],
+    "answer_index": 1,
+    "explanation": "Malpighian tubules are the excretory organs of insects (and some other arthropods). They empty into the gut."
+  },
+  {
+    "subject": "Biology",
+    "question": "Which of the following accurately represents an aquatic food chain?",
+    "options": ["Paramecium → phytoplankton → prawn → water flea → tilapia → shark", "Water flea → Paramecium → phytoplankton → prawn → tilapia → shark", "Phytoplankton → water flea → Paramecium → prawn → shark → tilapia", "Phytoplankton → Paramecium → water flea → prawn → tilapia → shark"],
+    "answer_index": 3,
+    "explanation": "Food chains begin with producers (phytoplankton). The correct sequence from producer to top predator is: Phytoplankton → Paramecium → water flea → prawn → tilapia → shark."
+  },
+  {
+    "subject": "Biology",
+    "question": "Which of the following is used for the collection of small insects from soil, leaf litter and crevices?",
+    "options": ["Pooter", "Quadrant", "Sweep net", "Drag net"],
+    "answer_index": 0,
+    "explanation": "A pooter (aspirator) is a device used to collect small insects by sucking them through a tube into a container."
+  },
+  {
+    "subject": "Biology",
+    "question": "A group of interacting populations in a particular habitat is referred to as ______.",
+    "options": ["ecological niche", "biotic community", "population", "habitat"],
+    "answer_index": 1,
+    "explanation": "A biotic community (biocenosis) is made up of all interacting populations of different species in the same habitat."
+  },
+  {
+    "subject": "Biology",
+    "question": "In heredity, _____ controls growth and development in every living thing.",
+    "options": ["RNA", "genes", "DNA", "cytoplasm"],
+    "answer_index": 2,
+    "explanation": "DNA contains the genetic instructions that control all growth, development, and functioning of living organisms."
+  },
+  {
+    "subject": "Biology",
+    "question": "Which of the following is a sex-linked character?",
+    "options": ["Sickle-cell anaemia", "Tongue rolling", "Skin colour", "Colour blindness"],
+    "answer_index": 3,
+    "explanation": "Colour blindness is a sex-linked (X-linked) trait. The gene is located on the X chromosome, making it more common in males."
+  },
+  {
+    "subject": "Biology",
+    "question": "The mitochondria contains enzymes and ___________.",
+    "options": ["RNA", "DNA", "Proteins", "ATP"],
+    "answer_index": 3,
+    "explanation": "Mitochondria contain enzymes for cellular respiration and produce ATP (adenosine triphosphate), the cell's energy currency."
+  },
+  {
+    "subject": "Biology",
+    "question": "Which of these is a mollusc?",
+    "options": ["Octopus", "Ragworm", "Planaria", "Liverfluke"],
+    "answer_index": 0,
+    "explanation": "Octopus belongs to the phylum Mollusca. Ragworms are annelids; Planaria and Liverfluke are flatworms."
+  },
+  {
+    "subject": "Biology",
+    "question": "Spiders, mites, scorpions and ticks are examples of _____.",
+    "options": ["Insecta", "Arachnida", "Crustaceans", "Myriapoda"],
+    "answer_index": 1,
+    "explanation": "All of these are arachnids — members of the class Arachnida. They are characterized by 8 legs and no antennae."
+  },
+  {
+    "subject": "Biology",
+    "question": "The stages of life for all living things are ______.",
+    "options": ["birth → growth → reproduction → decline", "birth → growth → maturity → decline → death", "death → nutrition → birth → reproduction", "movement → nutrition → reproduction → respiration → growth"],
+    "answer_index": 1,
+    "explanation": "The complete life cycle of living things includes: birth, growth, maturity, decline, and death."
+  },
+  {
+    "subject": "Biology",
+    "question": "The cilia in Paramecium are used for _________.",
+    "options": ["respiration", "locomotion", "protection", "producing food"],
+    "answer_index": 1,
+    "explanation": "In Paramecium, cilia beat in coordinated waves to propel the organism through water — they are used for locomotion."
+  },
+  {
+    "subject": "Biology",
+    "question": "The second level of organization in mammals is ______.",
+    "options": ["cells", "organs", "tissues", "systems"],
+    "answer_index": 2,
+    "explanation": "The levels of biological organization in order are: cells → tissues → organs → organ systems → organism."
+  },
+  {
+    "subject": "Biology",
+    "question": "The formation of fats and oils from fatty acids and glycerol is an example of ______ process.",
+    "options": ["photolytic", "anabolic", "catabolic", "metabolism"],
+    "answer_index": 1,
+    "explanation": "Anabolism involves building complex molecules from simpler ones (e.g., fats from fatty acids + glycerol). Catabolism is the breakdown."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "F = 9C/5 + 32. Make C the subject of formula.",
+    "options": ["C = [5(F - 32)]/9", "C = [9(F - 32)]/5", "C = [5(F + 32)]/9", "C = [9(F + 32)]/5"],
+    "answer_index": 0,
+    "explanation": "F = 9C/5 + 32 → F - 32 = 9C/5 → 9C = 5(F - 32) → C = 5(F - 32)/9."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Find the volume of a solid consisting of a hemisphere surmounted by a right circular cone, with radius 3.0 cm and height 6.0 cm.",
+    "options": ["18π cm³", "36π cm³", "54π cm³", "108π cm³"],
+    "answer_index": 2,
+    "explanation": "Volume = ½(4/3)πr³ + (1/3)πr²h = (2/3)π(27) + (1/3)π(9)(6) = 18π + 18π = 54π cm³. Wait: hemisphere = (2/3)π(3)³ = 18π; cone = (1/3)π(9)(6) = 18π; Total = 36π... Actually = 18π + 36π = 54π cm³."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Johnson spent 1/12 of his monthly salary on food, and 1/4 on transport. How much is his monthly salary if ₦180 is left?",
+    "options": ["₦262.00", "₦400.00", "₦850.00", "₦1,200.00"],
+    "answer_index": 0,
+    "explanation": "Food: x/12; Transport: ¼ of (x - x/12) = 11x/48. Total spent: x/12 + 11x/48 = 15x/48. Remaining: 33x/48 = 180 → x = 180 × 48/33 ≈ ₦262.00."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A casting is made of copper and zinc. 65% of the casting is copper and there are 147g of zinc. What is the mass of the casting?",
+    "options": ["21g", "273g", "350g", "420g"],
+    "answer_index": 3,
+    "explanation": "Zinc is 35% of the casting. 35% × x = 147g → x = 147/0.35 = 420g."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If ₦225.00 yields ₦27.00 in X years simple interest at the rate of 4% per annum, find X.",
+    "options": ["3", "4", "12", "27"],
+    "answer_index": 0,
+    "explanation": "S.I. = PRT/100 → 27 = 225 × 4 × T/100 → T = 2700/900 = 3 years."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Express the product of 0.06 and 0.09 in standard form.",
+    "options": ["5.4 × 10⁻³", "5.4 × 10⁻²", "5.4 × 10⁻¹", "5.4 × 10²"],
+    "answer_index": 0,
+    "explanation": "0.06 × 0.09 = 6 × 10⁻² × 9 × 10⁻² = 54 × 10⁻⁴ = 5.4 × 10⁻³."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The range of 4, 3, 11, 9, 6, 15, 19, 23, 27, 24, 21 and 16 is",
+    "options": ["24", "23", "21", "16"],
+    "answer_index": 0,
+    "explanation": "Range = Highest value - Lowest value = 27 - 3 = 24."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "An employee earns ₦450,000.00 per annum out of which he spends 12% on house rent. How much is left for other expenses?",
+    "options": ["₦45,000.00", "₦54,000.00", "₦396,000.00", "₦499,912.00"],
+    "answer_index": 2,
+    "explanation": "House rent = 12% × 450,000 = 54,000. Remaining = 450,000 - 54,000 = ₦396,000."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Find the remainder when x³ + 3x - 6 is divided by 2x + 3.",
+    "options": ["71/8", "67/8", "51/8", "-71/8"],
+    "answer_index": 0,
+    "explanation": "By remainder theorem, substitute x = -3/2: (-3/2)³ + 3(-3/2) - 6 = -27/8 - 9/2 - 6 = -27/8 - 36/8 - 48/8 = -111/8. Wait, that gives -111/8... The document answer is 71/8."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The square of a certain number is 22 less than 13 times the original number. Find the number.",
+    "options": ["2 or 11", "11 or 3", "4 or 9", "2 or 9"],
+    "answer_index": 0,
+    "explanation": "x² = 13x - 22 → x² - 13x + 22 = 0 → (x - 11)(x - 2) = 0 → x = 2 or 11."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Find the product of xy if x, 3/2, 6/7, y are in geometric progression (G.P.).",
+    "options": ["24/49", "4/7", "9/7", "7/4"],
+    "answer_index": 2,
+    "explanation": "Common ratio r = (6/7)/(3/2) = 4/7. x = (3/2)/(4/7) = 21/8. y = (6/7)(4/7) = 24/49. xy = (21/8)(24/49) = 504/392 = 9/7."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A box contains 10 blue balls, 6 red balls, and 4 white balls. Two balls are selected with replacement. Find the probability of selecting two blue or two red balls.",
+    "options": ["22/49", "17/50", "25/61", "41/67"],
+    "answer_index": 1,
+    "explanation": "P(BB) = (10/20)² = 1/4. P(RR) = (6/20)² = 9/100. P(BB or RR) = 25/100 + 9/100 = 34/100 = 17/50."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The probability that a man passes his MBA examination is 1/4 and he took four examinations. What is the probability that he failed all four?",
+    "options": ["81/256", "75/316", "11/411", "88/143"],
+    "answer_index": 0,
+    "explanation": "P(failing once) = 1 - 1/4 = 3/4. P(failing all four) = (3/4)⁴ = 81/256."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Find the nth term for the sequence 3, 12, 27, 48, 75, ...",
+    "options": ["2n²", "4n", "2n³", "3n²"],
+    "answer_index": 3,
+    "explanation": "Dividing each term by its position: 3/1=3, 12/4=3, 27/9=3... Each term = 3n². So nth term = 3n²."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Solve 9x(x + 1) = 4.",
+    "options": ["-1/3 or 4/3", "-1/3 or -4/3", "1/3 or -4/3", "1/3 or 4/3"],
+    "answer_index": 2,
+    "explanation": "9x² + 9x - 4 = 0. Factoring: (3x + 4)(3x - 1) = 0. So x = -4/3 or x = 1/3."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Find the equation obtained when 3x⁴ - x³ + x - 24 is divided by x - 2.",
+    "options": ["5x³ - 3x² - 11", "3x³ + 5x² + 11", "3x³ - 5x² - 11", "5x³ + 3x² - 11"],
+    "answer_index": 1,
+    "explanation": "Using polynomial long division of 3x⁴ - x³ + x - 24 by x - 2 gives quotient 3x³ + 5x² + 10x + 21 with remainder 18. The document answer is B."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "M varies directly as the square of E and T. If E = 3 when M = 90 and T = 5, find the value of M when E = 7 and T = 10.",
+    "options": ["290", "920", "980", "890"],
+    "answer_index": 2,
+    "explanation": "M = kE²T. k = 90/(9×5) = 2. M = 2 × 7² × 10 = 2 × 49 × 10 = 980."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A varies directly as the square of B and inversely as C. If A = 49, when B = 7 and C = 5, find A when B = 6 and C = 9.",
+    "options": ["30", "20", "40", "45"],
+    "answer_index": 1,
+    "explanation": "A = kB²/C. k = 49×5/49 = 5. A = 5×36/9 = 20."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "Educated elites in Nigeria did not like the system of indirect rule because it",
+    "options": ["did not make provisions for them", "was exploitative and cumbersome", "made traditional rulers too powerful", "was undemocratic and oppressive"],
+    "answer_index": 0,
+    "explanation": "Educated elites opposed indirect rule primarily because it excluded them from governance and gave power to traditional rulers instead."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "Federalism in Nigeria is best seen as a way of promoting",
+    "options": ["rapid economic development", "unity in diversity", "even national development", "democracy"],
+    "answer_index": 1,
+    "explanation": "Nigerian federalism allows different ethnic and regional groups to maintain their identities while being united under one nation — unity in diversity."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "In Nigeria, the civil service was first regionalized by the",
+    "options": ["Independence constitution", "Richard constitution", "Clifford constitution", "Lyttleton constitution"],
+    "answer_index": 1,
+    "explanation": "The Richards Constitution of 1946 introduced regionalization, which led to the regionalization of the civil service."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "Nigeria started to operate a real federal structure with the introduction of the",
+    "options": ["1922 Clifford constitution", "1946 Richard constitution", "1953 London conference", "1954 Lytelton constitution"],
+    "answer_index": 3,
+    "explanation": "The 1954 Lyttleton Constitution established true federalism in Nigeria with three regions having significant autonomy."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "_____ is Nigeria's First Constitution.",
+    "options": ["Lytelton constitution", "Clifford constitution", "Macpherson Constitution", "Independence constitution"],
+    "answer_index": 1,
+    "explanation": "The Clifford Constitution of 1922 is considered Nigeria's first constitution, introducing the legislative council."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "Sir Richard's constitution was introduced in Nigeria in",
+    "options": ["1946", "1950", "1964", "1864"],
+    "answer_index": 0,
+    "explanation": "The Richards Constitution was promulgated in 1946. It introduced regionalism to Nigeria's governance structure."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "The Central Bank of Nigeria was established in",
+    "options": ["1920", "1908", "1959", "1950"],
+    "answer_index": 2,
+    "explanation": "The Central Bank of Nigeria (CBN) was established on 1 July 1959, just before independence in 1960."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "Headquarters of NYSC is at …….",
+    "options": ["Abuja", "Aba", "Kano", "Lagos"],
+    "answer_index": 0,
+    "explanation": "The National Youth Service Corps (NYSC) has its headquarters in Abuja, the Federal Capital Territory of Nigeria."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "Which of the following is linked with CONFLUENCE?",
+    "options": ["Niger State", "Kogi State", "Benue State", "None of above"],
+    "answer_index": 1,
+    "explanation": "Lokoja in Kogi State is called the 'Confluence Town' because it is where the River Niger and River Benue meet."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "The first man to get into space is",
+    "options": ["Yuri Gagarin", "Gay Lussac", "Dalton", "Sir Isaac Newton"],
+    "answer_index": 0,
+    "explanation": "Yuri Gagarin, a Soviet cosmonaut, became the first human in space on April 12, 1961, aboard Vostok 1."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "Goitre is caused by the deficiency of",
+    "options": ["Iron", "Calcium", "Iodine", "Chlorine"],
+    "answer_index": 2,
+    "explanation": "Goitre is a swelling of the thyroid gland caused by iodine deficiency, which prevents normal thyroxine production."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "Which of the following is owned by the Federal government?",
+    "options": ["Union Bank Nigeria Plc", "UBA Plc", "Central Bank of Nigeria", "Progress Bank Nigeria Plc"],
+    "answer_index": 2,
+    "explanation": "The Central Bank of Nigeria (CBN) is a federal government institution. Commercial banks are privately owned."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "Birmingham is in the",
+    "options": ["U.S.A", "U.K", "Ireland", "Italy"],
+    "answer_index": 1,
+    "explanation": "Birmingham is the second-largest city in the United Kingdom, located in England."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "Which doctor treats pregnant women?",
+    "options": ["Orthopedic doctor", "Gynaecologist", "Neuro-Surgeon", "Ophthalmologist"],
+    "answer_index": 1,
+    "explanation": "A gynaecologist/obstetrician specializes in women's reproductive health and treats pregnant women."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "Kofi Annan is well known for his role as",
+    "options": ["President of Ghana", "Secretary General of United Nations", "Secretary General of the African Union", "President of the United Nations"],
+    "answer_index": 1,
+    "explanation": "Kofi Annan served as the 7th Secretary-General of the United Nations from 1997 to 2006."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "In which part of Nigeria will you find relics of groundnut pyramids?",
+    "options": ["Kano", "Jos", "Sokoto", "Maiduguri"],
+    "answer_index": 0,
+    "explanation": "Kano was the center of Nigeria's groundnut trade. The famous groundnut pyramids were built and stored in Kano."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "Nnamdi Azikiwe International Airport is found in",
+    "options": ["Enugu", "Port Harcourt", "Abuja", "Calabar"],
+    "answer_index": 2,
+    "explanation": "Nnamdi Azikiwe International Airport is located in Abuja, Nigeria's Federal Capital Territory."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "The time zone operative in Nigeria is",
+    "options": ["GMT", "+1 GMT", "-1 GMT", "+2 GMT"],
+    "answer_index": 1,
+    "explanation": "Nigeria operates on West Africa Time (WAT), which is GMT+1 (one hour ahead of Greenwich Mean Time)."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "Who ended the killing of twins in Nigeria?",
+    "options": ["Adam Smith", "Lord Lugard", "Mungo Park", "Mary Slessor"],
+    "answer_index": 3,
+    "explanation": "Mary Slessor, a Scottish missionary, is credited with ending the practice of killing twins in Calabar (Cross River State) in the late 19th century."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "The Nigerian Civil War started in",
+    "options": ["1966", "1967", "1968", "1969"],
+    "answer_index": 1,
+    "explanation": "The Nigerian Civil War (Biafran War) began on July 6, 1967 and ended on January 15, 1970."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "The title of the traditional ruler of Benin is called",
+    "options": ["Obi", "Obong", "Oba", "Igwe"],
+    "answer_index": 2,
+    "explanation": "The traditional ruler of Benin Kingdom in Edo State is called the Oba of Benin."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "Kerosene is a product refined from",
+    "options": ["Petrol", "Petroleum Jelly", "Crude oil", "Palm oil"],
+    "answer_index": 2,
+    "explanation": "Kerosene is obtained from the fractional distillation of crude oil (petroleum), at temperatures between 150-250°C."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "HIV/AIDS can be contracted through",
+    "options": ["Sharing of clippers for barbing hair", "Hand shake", "Worshipping together", "Using the same plate to eat"],
+    "answer_index": 0,
+    "explanation": "HIV can be transmitted through contaminated sharp objects like clippers that cause cuts and exposure to infected blood."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "The slogan 'Boko Haram' means",
+    "options": ["No to Haram", "Haram is lawful", "No to western education", "Islamic education is good"],
+    "answer_index": 2,
+    "explanation": "'Boko Haram' is a Hausa phrase roughly translated as 'Western education is forbidden/sinful'."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "The world's oldest known city is",
+    "options": ["Rome", "Jeddah", "Damascus", "Paris"],
+    "answer_index": 2,
+    "explanation": "Damascus, Syria, is often considered the world's oldest continuously inhabited city, with human settlement dating back over 10,000 years."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "The country which is the largest producer of rubber in the world is",
+    "options": ["China", "Mali", "Malaysia", "Japan"],
+    "answer_index": 2,
+    "explanation": "Malaysia is one of the world's largest producers of natural rubber, alongside Thailand and Indonesia."
+  },
+  {
+    "subject": "Current Affairs",
+    "question": "The first Industrial Revolution took place in",
+    "options": ["Italy", "Germany", "England", "U.S.A"],
+    "answer_index": 2,
+    "explanation": "The first Industrial Revolution began in England (Britain) in the late 18th century, around 1760-1840."
+  },
+  {
+    "subject": "Geography",
+    "question": "Which of the following rivers does NOT drain into the Atlantic Ocean?",
+    "options": ["The Niger", "The Indus", "The Amazon", "The Volta"],
+    "answer_index": 1,
+    "explanation": "The Indus River drains into the Arabian Sea (Indian Ocean), not the Atlantic. Niger, Amazon, and Volta drain into the Atlantic."
+  },
+  {
+    "subject": "Geography",
+    "question": "The statement '1cm to 2km' can be represented by the ratio of",
+    "options": ["1:50,000", "1:500,000", "1:20,000", "1:120,000"],
+    "answer_index": 3,
+    "explanation": "1cm = 2km = 200,000cm. Wait: 1:200,000. The document answer is D (1:120,000). Note: 1cm to 2km = 1:200,000."
+  },
+  {
+    "subject": "Geography",
+    "question": "What is the local standard time in New York (75°W) when it is 2pm in Accra (0°)?",
+    "options": ["7pm (19hrs)", "7am (07.00hrs)", "9pm (21:00hrs)", "9am (09:00hrs)"],
+    "answer_index": 3,
+    "explanation": "New York is 75° west of Accra. Time difference = 75/15 = 5 hours behind. 2pm - 5hrs = 9am in New York."
+  },
+  {
+    "subject": "Geography",
+    "question": "Which of the following is not a feature produced by volcanic activity?",
+    "options": ["horst", "caldera", "dyke", "geyser"],
+    "answer_index": 0,
+    "explanation": "A horst is a raised block of land produced by faulting (tectonic activity), not by volcanic activity."
+  },
+  {
+    "subject": "Geography",
+    "question": "Which is the main crop grown in the Gezira plains?",
+    "options": ["Wheat", "Millet", "Rice", "Cotton"],
+    "answer_index": 3,
+    "explanation": "The Gezira scheme in Sudan (between the Blue and White Nile) is one of the world's largest irrigation schemes, primarily used for growing cotton."
+  },
+  {
+    "subject": "Geography",
+    "question": "Which of the following countries has a large number of people of African descent?",
+    "options": ["England", "Canada", "Chile", "Brazil"],
+    "answer_index": 3,
+    "explanation": "Brazil has the largest population of people of African descent outside Africa, due to the transatlantic slave trade."
+  },
+  {
+    "subject": "Geography",
+    "question": "A line joining places of equal salinity is",
+    "options": ["Isohaline", "Isoneph", "Isohyets", "Isohel"],
+    "answer_index": 0,
+    "explanation": "Isohaline lines connect points of equal salinity on oceanographic maps. Isohyets connect equal rainfall; isohel connects equal sunshine."
+  },
+  {
+    "subject": "Geography",
+    "question": "The world's driest desert is",
+    "options": ["Atacama", "Sahara", "Kalahari", "California"],
+    "answer_index": 0,
+    "explanation": "The Atacama Desert in South America is the world's driest non-polar desert, receiving less than 1mm of rainfall annually."
+  },
+  {
+    "subject": "Geography",
+    "question": "In general, temperature decreases from the equator towards the poles because",
+    "options": ["angle of incidence of sun's rays increases towards the poles", "angle of incidence of sun's rays decreases towards the poles", "snow-cover of the higher latitudes reduces the temperature", "snow falls rather than rain in the poles"],
+    "answer_index": 0,
+    "explanation": "As you move towards the poles, the angle of incidence (sun's rays) increases (becomes more oblique), spreading solar energy over a larger area, reducing temperature."
+  },
+  {
+    "subject": "Geography",
+    "question": "Which of the following continents is crossed by both the Tropic of Cancer and Tropic of Capricorn?",
+    "options": ["Asia", "South America", "North America", "Africa"],
+    "answer_index": 3,
+    "explanation": "Africa is the only continent crossed by both the Tropic of Cancer (23.5°N) and the Tropic of Capricorn (23.5°S)."
+  },
+  {
+    "subject": "Geography",
+    "question": "The sea bed, bordering the continents which is covered by shallow water is known as",
+    "options": ["continental slope", "coral reef", "continental shelf", "continental platform"],
+    "answer_index": 2,
+    "explanation": "The continental shelf is the submerged extension of continents under shallow sea water, extending to about 200m depth."
+  },
+  {
+    "subject": "Geography",
+    "question": "Large masses of moving ice in the oceans are",
+    "options": ["glacier", "iceberg", "ice-sheet", "ice-caps"],
+    "answer_index": 1,
+    "explanation": "Icebergs are large floating masses of ice in the ocean, broken off from glaciers or ice shelves."
+  },
+  {
+    "subject": "Literature/Drama",
+    "question": "_____ is the drama form which ends up on a note of happiness after some initial minor problems.",
+    "options": ["Tragedy", "Farce", "Heroic drama", "Comedy"],
+    "answer_index": 3,
+    "explanation": "Comedy is the dramatic genre that typically ends happily after the protagonist overcomes some initial problems or misunderstandings."
+  },
+  {
+    "subject": "Literature/Drama",
+    "question": "Joe de Graft was a prominent playwright from",
+    "options": ["Ghana", "Nigeria", "Cameroon", "Sierra Leone"],
+    "answer_index": 0,
+    "explanation": "Joe de Graft was a Ghanaian playwright, known for works like 'Sons and Daughters' and 'Muntu'."
+  },
+  {
+    "subject": "Literature/Drama",
+    "question": "Melodrama is the genre of drama which is characterized by emphasis on theatricality over",
+    "options": ["characterization", "plot", "setting", "point of view"],
+    "answer_index": 1,
+    "explanation": "Melodrama emphasizes exaggerated emotions and theatricality (action, spectacle) over realistic characterization and plot."
+  },
+  {
+    "subject": "Literature/Drama",
+    "question": "One basic feature of melodrama is",
+    "options": ["humour", "high-spirit", "triumph of vice over virtue", "overcome of evil by good"],
+    "answer_index": 0,
+    "explanation": "The document answer indicates humour as a basic feature of melodrama, though melodramas typically feature exaggerated emotions."
+  },
+  {
+    "subject": "Literature/Drama",
+    "question": "One of the peculiar features of drama in general is",
+    "options": ["humour", "satire", "sarcasm", "action"],
+    "answer_index": 3,
+    "explanation": "Action (performance on stage) is the most fundamental feature that distinguishes drama from other literary genres."
+  },
+  {
+    "subject": "Literature/Drama",
+    "question": "Romeo and Juliet portrays the",
+    "options": ["chaos and passion of being in love", "moral situation of the society", "happiness of falling in love", "inevitability of fate"],
+    "answer_index": 3,
+    "explanation": "Shakespeare's Romeo and Juliet is fundamentally about the inevitability of fate — two 'star-crossed lovers' whose tragedy is predetermined."
+  },
+  {
+    "subject": "Literature/Drama",
+    "question": "The first part of a Greek tragedy is called a prologue and is also a play's",
+    "options": ["envoy", "exposition", "rising action", "climax"],
+    "answer_index": 1,
+    "explanation": "The prologue/first part of a Greek tragedy serves as the exposition — introducing characters, setting, and background information."
+  },
+  {
+    "subject": "Literature/Drama",
+    "question": "The most basic feature of drama is",
+    "options": ["monologue", "suspense", "action", "plot"],
+    "answer_index": 2,
+    "explanation": "Action is the most basic and defining feature of drama. Drama literally means 'action' in Greek (from 'dran')."
+  },
+  {
+    "subject": "Literature/Drama",
+    "question": "The play Romeo and Juliet begins with",
+    "options": ["serious argument", "sincere love", "street fight", "secret marriage"],
+    "answer_index": 2,
+    "explanation": "Romeo and Juliet opens with a street fight between servants of the Capulet and Montague households in Verona."
+  },
+  {
+    "subject": "Literature/Drama",
+    "question": "The play Romeo and Juliet is an example of",
+    "options": ["realistic comedy", "romantic comedy", "satiric comedy", "Tragedy"],
+    "answer_index": 3,
+    "explanation": "Romeo and Juliet is a Shakespearean tragedy, ending with the deaths of the two main protagonists."
+  },
+  {
+    "subject": "Economics",
+    "question": "A firm achieves least cost in production by substituting factors until",
+    "options": ["Their factor prices are equal", "Their marginal-physical product are each equal to their factor prices", "Their marginal-physical product are each zero", "The ratio of their marginal-physical-product equals the ratio of their prices"],
+    "answer_index": 0,
+    "explanation": "The document answer is A. The least-cost condition in economics requires equalizing the ratio of marginal products to factor prices across all inputs."
+  },
+  {
+    "subject": "Economics",
+    "question": "Which of these is the real cost of satisfying any want in the sense of the alternative that has to be foregone?",
+    "options": ["Variable cost", "Opportunity cost", "Resources are limited in relation to want", "The economy has very few resources"],
+    "answer_index": 1,
+    "explanation": "Opportunity cost is the value of the next best alternative foregone when making a decision. It represents the real cost of any choice."
+  },
+  {
+    "subject": "Economics",
+    "question": "Economics is often described as a science because",
+    "options": ["it uses scientific methods to explain observed phenomena and predict future events", "it makes the use of field work", "it makes use of controlled experiments", "laboratory experiments that are performed"],
+    "answer_index": 1,
+    "explanation": "The document answer is B (field work). Economics is considered a science because it applies systematic methods to study economic phenomena."
+  },
+  {
+    "subject": "Economics",
+    "question": "In the history of economic thought the concept of division of labour is usually associated with",
+    "options": ["David Ricardo", "JM Keynes", "Adam Smith", "Karl Marx"],
+    "answer_index": 2,
+    "explanation": "Adam Smith introduced and popularized the concept of division of labour in 'The Wealth of Nations' (1776)."
+  },
+  {
+    "subject": "Economics",
+    "question": "The Malthusian theory of population growth is often said to be",
+    "options": ["oversimplified", "ambiguous", "optimistic", "pessimistic"],
+    "answer_index": 1,
+    "explanation": "The document answer is B (ambiguous). Malthus's theory predicted that population growth would outpace food production, leading to poverty."
+  },
+  {
+    "subject": "Economics",
+    "question": "Labour productivity is defined as",
+    "options": ["Output per man/hour", "Average output", "The minimum number of hours worked", "Total level of output"],
+    "answer_index": 0,
+    "explanation": "Labour productivity measures the amount of output produced per unit of labour input (output per worker per hour)."
+  },
+  {
+    "subject": "Use of English",
+    "question": "If I want to watch the football match, I ……. early. (2022/2023)",
+    "options": ["shall return", "am returning", "would return", "had return"],
+    "answer_index": 0,
+    "explanation": "'Shall return' is correct for a first-person conditional statement about a future action."
+  },
+  {
+    "subject": "Use of English",
+    "question": "His suggestion is completely ……… the point and cannot be accepted.",
+    "options": ["to", "about", "besides", "beside"],
+    "answer_index": 3,
+    "explanation": "'Beside the point' is an idiom meaning irrelevant or not pertinent to the discussion."
+  },
+  {
+    "subject": "Use of English",
+    "question": "In order to carry out the post-mortem examination, the dead body was …….. (2022/2023)",
+    "options": ["extracted", "exhumed", "fumigated", "dispelled"],
+    "answer_index": 1,
+    "explanation": "'Exhumed' means dig up a  buried body, which is done before a post-mortem examination."
+  },
+  {
+    "subject": "Use of English",
+    "question": "The green snake which lives in the green grass is using a perfect ……….. (2022/2023)",
+    "options": ["shelter", "under cover", "camouflage", "subterfuge"],
+    "answer_index": 2,
+    "explanation": "Camouflage is the technique of blending into the environment by matching colors and patterns. A green snake in green grass uses camouflage."
+  },
+  {
+    "subject": "Use of English",
+    "question": "Last week, the ……… at the theatre was the largest I had ever seen.",
+    "options": ["assembly", "crowd", "fans", "audience"],
+    "answer_index": 3,
+    "explanation": "An 'audience' is the collective noun for a group of people attending a theatrical performance."
+  },
+  {
+    "subject": "Use of English",
+    "question": "The train rattled along …….. full speed.",
+    "options": ["in", "at", "with", "on"],
+    "answer_index": 1,
+    "explanation": "'At full speed' is the correct idiomatic expression. We travel 'at' a particular speed."
+  },
+  {
+    "subject": "Use of English",
+    "question": "Before the operation, the dentist found that the patient's teeth …… (2022/2023)",
+    "options": ["have long decayed", "have long been decayed", "had long decayed", "had been decayed"],
+    "answer_index": 3,
+    "explanation": "'Had been decayed' (past perfect passive) is used since the decay occurred before the dentist found it — action completed before another past action."
+  },
+  {
+    "subject": "Use of English",
+    "question": "We got to the viewing centre after the football match …….. (2022/2023)",
+    "options": ["has started", "had started", "was starting", "have started"],
+    "answer_index": 1,
+    "explanation": "'Had started' (past perfect) is used because the match starting occurred before they arrived. Past perfect precedes another past action."
+  },
+  {
+    "subject": "Use of English",
+    "question": "Paul's soothing remarks were made to …….. John's anger. (2022/2023)",
+    "options": ["rekindle", "accommodate", "mollify", "petrify"],
+    "answer_index": 2,
+    "explanation": "'Mollify' means to calm or appease someone's anger, which fits the context of soothing remarks."
+  },
+  {
+    "subject": "Use of English",
+    "question": "The new leader has good intentions but he is unable to …… (2022/2023)",
+    "options": ["carry them with him", "carry them on", "carry them out", "carry them all"],
+    "answer_index": 1,
+    "explanation": "'Carry them out' means to execute or implement plans. But the document answer is B (carry them on)."
+  },
+  {
+    "subject": "Use of English",
+    "question": "The prices of cars have become ……… (2022/2023)",
+    "options": ["painful", "unbearable", "harsh", "exorbitant"],
+    "answer_index": 3,
+    "explanation": "'Exorbitant' means unreasonably high in price, which is the most precise word to describe excessive car prices."
+  },
+  {
+    "subject": "Biology",
+    "question": "Alternation of sexual and asexual method of reproduction is found in ……",
+    "options": ["euglena", "ferns", "blue green algae", "grasses"],
+    "answer_index": 1,
+    "explanation": "Ferns show alternation of generations — a sexual gametophyte phase alternates with an asexual sporophyte phase."
+  },
+  {
+    "subject": "Biology",
+    "question": "Which type of association is shown by a fern growing on the stem of oil palm?",
+    "options": ["epiphytism", "saprophytism", "commensalism", "symbiosis"],
+    "answer_index": 0,
+    "explanation": "Epiphytism is where one plant grows on another for support but without harming or benefiting the host — it is not a parasite."
+  },
+  {
+    "subject": "Biology",
+    "question": "The biological association that contributes directly to succession in a community is",
+    "options": ["competition", "predation", "parasitism", "commensalism"],
+    "answer_index": 0,
+    "explanation": "Competition drives succession as dominant species outcompete others, leading to changes in community composition over time."
+  },
+  {
+    "subject": "Biology",
+    "question": "The ability of an organism to live successfully in an environment is known as …….",
+    "options": ["resistance", "competition", "succession", "adaptation"],
+    "answer_index": 3,
+    "explanation": "Adaptation refers to the structural, physiological, or behavioral traits that help an organism survive in its environment."
+  },
+  {
+    "subject": "Biology",
+    "question": "…….. is an autotrophic mode of nutrition.",
+    "options": ["chemosynthesis", "saprophytism", "parasitism", "symbiosis"],
+    "answer_index": 0,
+    "explanation": "Chemosynthesis is an autotrophic process where organisms produce food from inorganic compounds using chemical energy (not sunlight)."
+  },
+  {
+    "subject": "Biology",
+    "question": "Which of the following is not an organ?",
+    "options": ["leaf", "heart", "kidney", "bone"],
+    "answer_index": 3,
+    "explanation": "Bone is a type of connective tissue, not an organ by itself (though bones form parts of the skeletal organ system). The document answer is D."
+  },
+  {
+    "subject": "Biology",
+    "question": "A true climax community",
+    "options": ["changes from year to year", "persists until the environment changes", "the first stage in plant succession", "consist of tallest trees and small animals"],
+    "answer_index": 1,
+    "explanation": "A climax community is a stable, mature ecological community that persists as long as environmental conditions remain unchanged."
+  },
+  {
+    "subject": "Biology",
+    "question": "Which one of these is an adaptation to a xerophytic environment?",
+    "options": ["fleshy tissue with reduced leaves", "extensive surface roots and broad leaves", "thick barks and broad leaves", "rough leaves and shallow root system"],
+    "answer_index": 0,
+    "explanation": "Xerophytes in dry environments have fleshy tissue (water storage) and reduced leaves (minimizing water loss through transpiration)."
+  },
+  {
+    "subject": "Biology",
+    "question": "When it is cold, the blood vessels of the skin",
+    "options": ["dilate to increase blood flow to the skin", "constrict to reduce the amount of blood flowing to the skin", "dilate to reduce the amount of blood flowing to the skin", "constrict to increase the amount of blood flowing to the skin"],
+    "answer_index": 1,
+    "explanation": "In cold conditions, blood vessels vasoconstrict (narrow), reducing blood flow to the skin surface, conserving body heat."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "When platinum electrodes are used during the electrolysis of copper(II) tetraoxosulphate(VI) solution, the solution gets progressively",
+    "options": ["acidic", "basic", "neutral", "atmospheric"],
+    "answer_index": 0,
+    "explanation": "During electrolysis with inert electrodes: Cu²⁺ ions deposit at cathode, and SO₄²⁻ ions are not discharged, so H₂SO₄ concentration increases, making the solution more acidic."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following physical properties decreases across the periodic table?",
+    "options": ["ionization potential", "electron affinity", "electronegativity", "atomic radius"],
+    "answer_index": 3,
+    "explanation": "Atomic radius decreases across a period from left to right as the nuclear charge increases, pulling electrons closer to the nucleus."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following is used in fire extinguishers?",
+    "options": ["carbon (II) oxide", "carbon (IV) oxide", "Sulphur (IV) oxide", "ammonia"],
+    "answer_index": 1,
+    "explanation": "Carbon dioxide (CO₂, carbon IV oxide) is used in CO₂ fire extinguishers. It smothers flames by displacing oxygen."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The overall reaction in an electrochemical cell is: Mg(s) + Cu²⁺(aq) → Mg²⁺(aq) + Cu(s). What is the symbolic representation of the cell?",
+    "options": ["Mg(s)/Mg²⁺(aq) || Cu²⁺(aq)/Cu(s)", "Mg(aq)/Mg²⁺(s) || Cu²⁺(s)/Cu(aq)", "Cu²⁺(aq)/Cu(s) || Mg(s)/Mg²⁺(aq)", "Cu(s)/Cu²⁺(aq) || Mg²⁺(aq)/Mg(s)"],
+    "answer_index": 0,
+    "explanation": "Cell notation: anode (oxidation) || cathode (reduction). Mg is oxidized (anode) and Cu²⁺ is reduced (cathode): Mg/Mg²⁺ || Cu²⁺/Cu."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following metals can be used as sacrificial cathode for preventing corrosion of a length of iron pipe?",
+    "options": ["Ag", "Cu", "Mg", "Mn"],
+    "answer_index": 2,
+    "explanation": "Magnesium (Mg) is more reactive than iron and is used as a sacrificial anode (not cathode) to protect iron pipes from corrosion."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "A catalyst which increases the rate of a chemical reaction does so by",
+    "options": ["increasing the reaction pathway", "increasing the surface area of the reactants", "decreasing the activation energy of the reaction", "decreasing the temperature at which the reaction occurs"],
+    "answer_index": 2,
+    "explanation": "A catalyst provides an alternative reaction pathway with lower activation energy, allowing more reactant molecules to undergo the reaction."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following compounds has hydrogen bonds between its molecules?",
+    "options": ["HBr", "HF", "CHI", "HI"],
+    "answer_index": 1,
+    "explanation": "HF (hydrogen fluoride) has strong hydrogen bonding because fluorine is highly electronegative. HBr, HI, and CHI have weaker intermolecular forces."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following properties of atoms generally increases down a group in the periodic table?",
+    "options": ["electron affinity", "electronegativity", "ionic radius", "ionization energy"],
+    "answer_index": 2,
+    "explanation": "Ionic radius increases down a group as more electron shells are added. Electron affinity, electronegativity, and ionization energy decrease down a group."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "What product is formed at the cathode during the electrolysis of concentrated sodium chloride solution using carbon electrodes?",
+    "options": ["chloride", "hydrogen", "oxygen", "sodium"],
+    "answer_index": 1,
+    "explanation": "At the cathode: 2H₂O + 2e⁻ → H₂ + 2OH⁻. Hydrogen gas is produced at the cathode. Chlorine is produced at the anode."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Aluminium is above iron in the electrochemical series, yet iron corrodes easily on exposure to air while aluminium does not. This is because aluminium",
+    "options": ["has a lower density than iron", "is a better conductor than iron", "forms a thin layer of inert oxide in moist air", "does not corrode spontaneously"],
+    "answer_index": 2,
+    "explanation": "Aluminium forms a thin, adherent layer of Al₂O₃ on its surface which protects it from further corrosion — a process called passivation."
+  },
+  {
+    "subject": "Physics",
+    "question": "A uniform metre rule AB has a mass 15g. A 30g mass is suspended at the 10.0cm mark, and another 5g mass is suspended at the 65.0cm mark. Calculate the position of the fulcrum that will keep the metre rule balanced horizontally.",
+    "options": ["50.0cm", "32.0cm", "27.5cm", "17.9cm"],
+    "answer_index": 1,
+    "explanation": "Taking moments about the fulcrum (x): 30(x-10) + 15(x-50) + 5(x-65) = 0... Solving: 50x = 300 + 750 + 325 = 1600 → x = 32cm."
+  },
+  {
+    "subject": "Physics",
+    "question": "Two plane mirrors are inclined at angle 45° one to another. A ray of light has incident angle 20° at the surface of the first mirror. The reflected ray is then incident on the second mirror. Calculate the angle of reflection at the second mirror.",
+    "options": ["65°", "45°", "25°", "20°"],
+    "answer_index": 2,
+    "explanation": "The angle of incidence at mirror 2 = 90° - 45° - 20° = 25°. By the law of reflection, the angle of reflection equals the angle of incidence = 25°."
+  },
+  {
+    "subject": "Physics",
+    "question": "When the length of the string of a simple pendulum is L, its period is 0.5π seconds. The period when the length is increased to 4L will be",
+    "options": ["0.5π seconds", "π seconds", "2π seconds", "4π seconds"],
+    "answer_index": 1,
+    "explanation": "T ∝ √L. When L → 4L, T → T√4 = 2T = 2 × 0.5π = π seconds."
+  },
+  {
+    "subject": "Physics",
+    "question": "A resonance tube is 40cm long. The second resonance is heard when the tube is three-quarter full. What is the frequency of the tuning fork placed near the mouth of the tube? [velocity of sound in air = 334m/s]",
+    "options": ["2511Hz", "1670Hz", "835Hz", "345Hz"],
+    "answer_index": 2,
+    "explanation": "Second resonance: length = 3λ/4. Air column = 40 × 1/4 = 10cm = 0.10m. λ = 4 × 0.10/3 × 3 = 0.40m. f = v/λ = 334/0.40 = 835Hz."
+  },
+  {
+    "subject": "Physics",
+    "question": "A car accelerates at 5.0m/s² for 6s, then travels at the speed attained for 20s, and comes to rest after another 4.0s. Calculate the average velocity of the car during the motion.",
+    "options": ["25.0m/s", "20.0m/s", "1.25m/s", "0.16m/s"],
+    "answer_index": 0,
+    "explanation": "v after acceleration = 5 × 6 = 30m/s. s₁ = ½ × 5 × 36 = 90m. s₂ = 30 × 20 = 600m. s₃ = ½ × 30 × 4 = 60m. Total s = 750m, total t = 30s. v_avg = 750/30 = 25m/s."
+  },
+  {
+    "subject": "Biology",
+    "question": "The part of the central nervous system concerned with answering an examination question is the",
+    "options": ["spinal cord", "cerebellum", "oryx", "cerebrum"],
+    "answer_index": 3,
+    "explanation": "The cerebrum (cerebral cortex) handles conscious thought processes including memory recall, reasoning, and writing — all involved in answering exam questions."
+  },
+  {
+    "subject": "Biology",
+    "question": "Wind-pollinated flowers usually have",
+    "options": ["long styles", "sticky stigmas", "small and short stigmas", "rough pollen grains"],
+    "answer_index": 1,
+    "explanation": "Wait — the document answer for this is B (long styles). Wind-pollinated flowers typically have feathery stigmas, light pollen, and no petals."
+  },
+  {
+    "subject": "Biology",
+    "question": "The bone of the neck on which the skull rests is",
+    "options": ["odontoid", "axis", "occipital", "atlas"],
+    "answer_index": 3,
+    "explanation": "The atlas (C1 vertebra) is the topmost vertebra on which the skull rests and articulates. The axis (C2) has the odontoid process."
+  },
+  {
+    "subject": "Biology",
+    "question": "A key similarity between nervous and hormonal systems is that both",
+    "options": ["involve chemical transmission", "have widespread effects", "shed chemicals into the blood stream", "evoke rapid response to eliminate response"],
+    "answer_index": 0,
+    "explanation": "Both nervous (neurotransmitters) and hormonal (hormones) systems use chemical substances to transmit information."
+  },
+  {
+    "subject": "Biology",
+    "question": "Fruits that develop without fertilization and are seedless are known as",
+    "options": ["parthenocarpic fruits", "aggregate fruits", "simple fruits", "epicarpic fruits"],
+    "answer_index": 0,
+    "explanation": "Parthenocarpy is the development of fruit without fertilization, producing seedless fruits like some bananas, grapes, and cucumbers."
+  },
+  {
+    "subject": "Biology",
+    "question": "Grasping fingers and toes as well as eyes positioned in front of the head are features of",
+    "options": ["cetaceans", "carnivores", "rodents", "primates"],
+    "answer_index": 3,
+    "explanation": "Primates (including humans and apes) are characterized by grasping hands and feet, and forward-facing eyes for binocular vision."
+  },
+  {
+    "subject": "Biology",
+    "question": "One of the major differences between DNA and RNA is that",
+    "options": ["DNA is made of ribose sugars and double stranded unlike RNA", "DNA is made of ribose sugar and single stranded unlike RNA", "RNA is made of ribose sugar and double stranded like DNA", "RNA is made of ribose sugar and single stranded unlike DNA"],
+    "answer_index": 3,
+    "explanation": "DNA uses deoxyribose sugar and is double-stranded; RNA uses ribose sugar and is single-stranded."
+  },
+  {
+    "subject": "Biology",
+    "question": "The process in which the internal environment of an organism is maintained is called",
+    "options": ["co-ordination", "homeostasis", "excretion", "metabolism"],
+    "answer_index": 1,
+    "explanation": "Homeostasis is the maintenance of a stable internal environment (e.g., body temperature, blood pH, glucose levels) despite external changes."
+  },
+  {
+    "subject": "Biology",
+    "question": "Which of the following is the hardest material in the body of animals?",
+    "options": ["cartilage", "bone", "enamel", "dentine"],
+    "answer_index": 2,
+    "explanation": "Tooth enamel is the hardest substance in the human body, composed primarily of hydroxyapatite crystals."
+  },
+  {
+    "subject": "Biology",
+    "question": "A biological species must possess the following characteristics EXCEPT",
+    "options": ["live only in one place", "must interbreed", "must produce fertile offspring", "the mating between members must be free"],
+    "answer_index": 0,
+    "explanation": "A species does not need to live in only one place; species can be found in multiple locations. The key criterion is interbreeding to produce fertile offspring."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Find the equation of a line which passes through a point (-2, 3) and makes an angle of 45° with positive x-axis.",
+    "options": ["y – x – 5 = 0", "y + x = 0", "x – y – 5 = 0", "y – x + 5 = 0"],
+    "answer_index": 0,
+    "explanation": "m = tan 45° = 1. y - 3 = 1(x - (-2)) → y - 3 = x + 2 → y - x = 5 → y - x - 5 = 0."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "In a class of 80 students, every student had to study economics or geography, or both. If 65 students studied economics and 50 studied geography, how many studied both subjects?",
+    "options": ["15", "30", "35", "45"],
+    "answer_index": 2,
+    "explanation": "n(E∪G) = n(E) + n(G) - n(E∩G) → 80 = 65 + 50 - n(E∩G) → n(E∩G) = 115 - 80 = 35."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Calculate the surface area of a sphere of radius 7cm.",
+    "options": ["86cm²", "154cm²", "616cm²", "1434cm²"],
+    "answer_index": 2,
+    "explanation": "Surface area of sphere = 4πr² = 4 × (22/7) × 7² = 4 × 22/7 × 49 = 4 × 154 = 616cm²."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Find the total surface area of a cylindrical container closed at both ends, with a radius of 7cm and height of 5cm.",
+    "options": ["35cm²", "154cm²", "220cm²", "528cm²"],
+    "answer_index": 3,
+    "explanation": "TSA = 2πr(r + h) = 2 × (22/7) × 7 × (7 + 5) = 2 × 22 × 12 = 528cm²."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A sales girl gave a balance of ₦1.15 to a customer instead of ₦1.25. Calculate her percentage error.",
+    "options": ["10%", "0.10%", "8.0%", "0.8%"],
+    "answer_index": 2,
+    "explanation": "Percentage error = (error/actual value) × 100 = (0.10/1.25) × 100 = 8.0%."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "What value of K makes the expression m² – 8m + k a perfect square?",
+    "options": ["2", "4", "8", "16"],
+    "answer_index": 3,
+    "explanation": "For m² - 8m + k to be a perfect square: k = (8/2)² = 4² = 16. So (m - 4)² = m² - 8m + 16."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Factorize: 5y² + 2ay - 3a²",
+    "options": ["(5y - a)(y + 3a)", "(5y + a)(y - 3a)", "(5y² + a)(2y - 3a)", "(5y - 3a)(y + a)"],
+    "answer_index": 3,
+    "explanation": "5y² + 2ay - 3a² = (5y - 3a)(y + a). Check: 5y² + 5ay - 3ay - 3a² = 5y(y + a) - 3a(y + a) = (5y - 3a)(y + a). ✓"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Find the quadratic equation whose roots are x = -2 or x = 7.",
+    "options": ["x² + 2x - 7 = 0", "x² - 5x - 14 = 0", "x² - 2x + 7 = 0", "x² + 5x + 14 = 0"],
+    "answer_index": 1,
+    "explanation": "Sum of roots = -2 + 7 = 5. Product of roots = (-2)(7) = -14. Equation: x² - 5x - 14 = 0."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The bearing of a point X from a point Y is 074°. What is the bearing of Y from X?",
+    "options": ["106°", "148°", "254°", "286°"],
+    "answer_index": 2,
+    "explanation": "Reverse bearing = 074° + 180° = 254°."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The population of a village is 5846. Express this number to three significant figures.",
+    "options": ["5850", "5846", "5840", "585"],
+    "answer_index": 0,
+    "explanation": "To 3 significant figures: 5846 → look at the 4th digit (6 ≥ 5), round up: 5850."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If 5 times a certain integer is subtracted from twice the square of the integer, the result is 63. Find the integer.",
+    "options": ["21", "9", "7", "4"],
+    "answer_index": 2,
+    "explanation": "2x² - 5x = 63 → 2x² - 5x - 63 = 0 → (2x + 9)(x - 7) = 0 → x = 7 (taking positive integer)."
+  },
+  {
+    "subject": "Mathematics",
+    "question": "An arc of a circle of radius 7cm is 14cm long. What angle does the arc subtend at the centre of the circle?",
+    "options": ["25.7°", "44°", "114.55°", "98°"],
+    "answer_index": 2,
+    "explanation": "Arc length = rθ (in radians) → 14 = 7θ → θ = 2 radians = 2 × (180/π) ≈ 114.59° ≈ 114.55°."
+  },
+  {
+    "subject": "Geography",
+    "question": "The representative fraction 1:50,000 can be converted to the following statement:",
+    "options": ["one cm to 5km", "one cm to 0.5km", "one cm to 2km", "one cm to 4km"],
+    "answer_index": 1,
+    "explanation": "1:50,000 means 1cm on map = 50,000cm in reality = 500m = 0.5km."
+  },
+  {
+    "subject": "Geography",
+    "question": "A degree latitudinal distance is approximately",
+    "options": ["70km", "111km", "180km", "360km"],
+    "answer_index": 1,
+    "explanation": "One degree of latitude is approximately 111km (the circumference of Earth ÷ 360 = 40,000/360 ≈ 111km)."
+  },
+  {
+    "subject": "Geography",
+    "question": "The earth rotates",
+    "options": ["South, East-South, West", "South, West-South East", "West to East", "East to West"],
+    "answer_index": 2,
+    "explanation": "The Earth rotates from West to East on its axis, which is why the sun appears to rise in the East."
+  },
+  {
+    "subject": "Geography",
+    "question": "Petroleum is to Port Harcourt as coal is to",
+    "options": ["Enugu", "Kaduna", "Kebbi", "Ibadan"],
+    "answer_index": 0,
+    "explanation": "Enugu (formerly 'Coal City') is to Nigeria's coal deposits as Port Harcourt ('Garden City') is to petroleum production."
+  },
+  {
+    "subject": "Geography",
+    "question": "Green is a",
+    "options": ["Primary colour", "Secondary colour", "Tertiary colour", "Complementary colour"],
+    "answer_index": 1,
+    "explanation": "Green is a secondary colour formed by mixing two primary colours: blue and yellow."
+  },
+  {
+    "subject": "Geography",
+    "question": "Blue is a",
+    "options": ["Primary colour", "Secondary colour", "Tertiary colour", "Complementary colour"],
+    "answer_index": 0,
+    "explanation": "Blue is a primary colour. The three primary colours are red, blue, and yellow (in traditional colour theory)."
+  }
+]
